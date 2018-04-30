@@ -61,17 +61,19 @@ On this page you decide your direction.
 
 ---
 
-##### Day review (Do, Obstacles, Improve)
+##### Day review:
+###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+* 01/05/18 Tuesday, week 10:
+    *
 
 * 30/04/18 Monday, week 10:
     * *Done*: Sorted git and workflow, can now edit and run python
     * *In Progress*: started to review python notes in SLP subject
-    * Improve:
-        1. make early starts work,
-        1. don't let frustration lead you to procrastinate (1-2hrs).
-    * **Deadline Missed** Lab 8 completed by close of business today.
-
-* 01/05/18 Tuesday, week 10:
-    * 
+    * *Obstacle*: for some reason my code does not run in Atom, even with the help of the package I installed to allow me to run them.
+    * **Deadline Missed** Lab 8 not completed and submitted by close of business today.
+    * *Improve*:
+        1. *Next up*: 7 hrs sleep and catch up tomorrow: you complete all study for python scripting up to lab 8 including all exercises and then you start BISIP before work.
+        1. don't let frustration lead you to procrastinate (1-2hrs today): you have a framework now. Run with it.
 
 ---
