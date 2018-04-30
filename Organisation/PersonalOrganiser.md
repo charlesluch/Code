@@ -46,6 +46,9 @@ On this page you decide your direction.
 * A GovHack in Alice Springs
 * Trace and learn from ANSI C course
 
+* room for growth...
+    *
+
 ---
 
 ##### Dates for the Calendar
@@ -55,5 +58,20 @@ On this page you decide your direction.
 * *Life*:
     * *Birthdays*
     * Leave for adventures to Sydney, 30th International, Festival in new year...
+
+---
+
+##### Day review (Do, Obstacles, Improve)
+
+* 30/04/18 Monday, week 10:
+    * *Done*: Sorted git and workflow, can now edit and run python
+    * *In Progress*: started to review python notes in SLP subject
+    * Improve:
+        1. make early starts work,
+        1. don't let frustration lead you to procrastinate (1-2hrs).
+    * **Deadline Missed** Lab 8 completed by close of business today.
+
+* 01/05/18 Tuesday, week 10:
+    *
 
 ---
