@@ -4,7 +4,7 @@ On this page you decide your direction.
 
 ---
 
-##### Current Stack
+##### Current Stack - Work
 
 1.  2/5/18 - Lab  8 due
 1.  9/5/18 - Lab  9 due
@@ -50,8 +50,10 @@ On this page you decide your direction.
 
 ##### Dates for the Calendar
 
-* 2 months to pay Medibank Private
-* *Birthdays*
-* Leave for adventures to Sydney, Mel
+* *Bills*:
+    * 2 months to pay Medibank Private
+* *Life*:
+    * *Birthdays*
+    * Leave for adventures to Sydney, 30th International, Festival in new year...
 
 ---
