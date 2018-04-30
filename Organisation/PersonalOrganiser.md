@@ -1,6 +1,9 @@
 # Personal Organizer
 
 On this page you decide your direction.
+**Mission**: *Everyday you will calmly use your will and intelligence to overcome the obstacles between you and contributing meaningfully to fulfilling work*
+*Don't stress, progress.*
+*Only by doing do we learn.*
 
 ---
 
