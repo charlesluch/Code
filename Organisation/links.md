@@ -4,7 +4,9 @@ Your repository of useful and active links
 
 ##### Processes
 
-* [Step-by-step adding your git to GitHub using Git Bash](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+* Version Control:
+    * [Step-by-step adding your git to GitHub using Git Bash](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+    * [Star your repos for Atom use](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/)
 
 ---
 
