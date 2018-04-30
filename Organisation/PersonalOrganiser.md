@@ -72,6 +72,6 @@ On this page you decide your direction.
     * **Deadline Missed** Lab 8 completed by close of business today.
 
 * 01/05/18 Tuesday, week 10:
-    *
+    * 
 
 ---
