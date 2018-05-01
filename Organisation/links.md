@@ -39,3 +39,7 @@ Your repository of useful and active links
 * Keep up your ML skills by doing the [examples](https://github.com/johnmyleswhite/ML_for_Hackers) in [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do)
 
 ---
+
+##### python
+
+* Documentation for [built-in functions](https://docs.python.org/2/library/functions.html#type)

@@ -2,15 +2,17 @@
 
 On this page you decide your direction.
 
-**Mission**: *Everyday you will calmly use your will and intelligence to overcome the obstacles between you and contributing meaningfully to fulfilling work*
+**Mission**: *Everyday* you will calmly use your will and intelligence to *overcome the obstacles* between you and contributing meaningfully to fulfilling *work*
 
-*Don't stress, progress.*
+Don't stress, *progress*.
 
-*Only by doing do we learn.*
+Only by *doing* do we learn.
+
+*obtain power* by humbly and calmly bearing the *sometimes uncomfortable* burdens that come with challenge and growth.
 
 ---
 
-##### Current Stack - Work
+##### Current Stack
 
 | Date    | Description                |
 | ------- |:-------------------------- |
@@ -74,18 +76,16 @@ On this page you decide your direction.
 
 ---
 
-##### Dates for the Calendar
-
-* *Bills*:
-    * 2 months to pay Medibank Private
-* *Life*:
-    * *Birthdays*
-    * Leave for adventures to Sydney, 30th International, Festival in new year...
-
----
-
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+* 02/05/18 Wednesday, week 10:
+    * *Next up*:
+        * write and submit Lab 8
+        * Site build
+        * Qld gov health job application
+        * run and test doctest quickly before submitting Lab 9
+        * Get going on Lab 10 and assignment 2 so you can clear the way for unadulterated scripting language study, BISIP contributions, job applications and project development.
 
 * 01/05/18 Tuesday, week 10:
     * *Improved on*: did not go to procrastination straight up despite urge
@@ -120,9 +120,41 @@ On this page you decide your direction.
         * notes taken on talking points (if professional).
         * end of conversation, if appropriate: "Did I get that right?" closed question to round out.
         * **Apply this to client interviews to make sure you get the absolute most out of your meetings!!**
-    * Trust = [ Credibility() * Reliability() * Intimacy() ]
-                         [ Self-Orientation ]
+    * `Trust = [ Credibility() * Reliability() * Intimacy() ]
+               ----------------------------------------------
+                         [ Self-Orientation() ]`
         * Implications:
             1. Credibility and Reliability are largely defined by training, diligence and time management.
             1. Self-Orientation is what happens when you are not *engaged* in your work
             1. Intimacy (understanding a person, their concerns, their role, giving them a safe space) is what we can change,
+
+---
+
+#### Set aside for down time
+
+##### Once
+
+* Pay MBP before June
+* Claim psych
+*
+
+##### Will take some time
+
+* Craft box emptied
+* Microsoft Edge starred links to links.md file
+*
+
+##### Ongoing
+
+* Get into a physio
+* Hone professional wardrobe
+* Collect and write down important dates and addresses (birthdays...)
+* Leave for adventures to Sydney, 30th International, Festival in new year...
+    * Sean in BNE June, Al in Mexico May 5-14
+
+##### Great habits
+
+* *Pervasive professionalism*: dress, shower, diet, exercise, work after hours, full, clear & patient communication, pre-deadlines, *approach rewarding habits*, no matter how uncomfortable some of them may seem.
+*
+
+---
