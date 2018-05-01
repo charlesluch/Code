@@ -1,8 +1,11 @@
 # Personal Organizer
 
 On this page you decide your direction.
+
 **Mission**: *Everyday you will calmly use your will and intelligence to overcome the obstacles between you and contributing meaningfully to fulfilling work*
+
 *Don't stress, progress.*
+
 *Only by doing do we learn.*
 
 ---
@@ -20,6 +23,8 @@ On this page you decide your direction.
 1. 21/5/18 - ABS GP
 1. 21-27 ??:?? - Scripting Exam
 1. ??/?/?? - Flight Centre
+1. 18/6/18 - Census Date SP2
+1. 17/9/18 - Census Date SP3
 
 * *BISIP?*
     * Trello updates regularly...
@@ -29,10 +34,20 @@ On this page you decide your direction.
 
 ##### Ongoing
 
-* BISIP
-* Scripting
-* Work
-* Exercise
+* *BISIP*:
+    * hours of professional contributions into the peer doc,
+    * journal sorted: minutes, personal issues professionally represented, more of a project focus.
+* *Scripting*:
+    * Do the assignments well, study as you go.
+* *Job applications*:
+    * Stick to deadlines
+* *Housework*:
+    * **G**: Define and run a whole house clean next weekend
+    * **G**: Run next week's meal plan
+* *Work*:
+    * Do it, arrive on time
+* *Exercise*:
+    * `(2*floor) + (3*run)` or equivalent (swim, bike)
 
 ---
 
@@ -76,7 +91,8 @@ On this page you decide your direction.
 * 01/05/18 Tuesday, week 10:
     * *Improved on*: did not go to procrastination straight up despite urge
     * *Improve*:
-        1. Continue to resist the urge, go for fewer minutes dithering and an even quicker start on your set tasks,
+        1. Continue to resist the urge, go for fewer minutes dithering and an even quicker start on your set tasks:
+            * **G**: 30 mins max on initial PO (now that it is settled, you can just touch on your focus points and go on with your priority task).
         1. Take meds, brush and shower,
         1. Move fast and get some exercise in,
 
