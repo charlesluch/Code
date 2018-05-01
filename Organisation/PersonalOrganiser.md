@@ -10,10 +10,16 @@ On this page you decide your direction.
 ##### Current Stack - Work
 
 1.  2/5/18 - Lab  8 due
+1.  2/5/18 - QLD Gov GPs
+1.  3/5/18 - Build done
+1.  7/5/18 - Apply for DXC
 1.  9/5/18 - Lab  9 due
 1. 13/5/18 - Ax 2   due
+1. 15/5/18 - DOHS ICT GP
 1. 16/5/18 - Lab 10 due
+1. 21/5/18 - ABS GP
 1. 21-27 ??:?? - Scripting Exam
+1. ??/?/?? - Flight Centre
 
 * *BISIP?*
     * Trello updates regularly...
@@ -68,7 +74,11 @@ On this page you decide your direction.
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
 
 * 01/05/18 Tuesday, week 10:
-    *
+    * *Improved on*: did not go to procrastination straight up despite urge
+    * *Improve*:
+        1. Continue to resist the urge, go for fewer minutes dithering and an even quicker start on your set tasks,
+        1. Take meds, brush and shower,
+        1. Move fast and get some exercise in,
 
 * 30/04/18 Monday, week 10:
     * *Done*: Sorted git and workflow, can now edit and run python
@@ -80,3 +90,23 @@ On this page you decide your direction.
         1. don't let frustration lead you to procrastinate (1-2hrs today): you have a framework now. Run with it.
 
 ---
+
+##### Professional and Social
+
+* *Goal*: Learn to be comfortable and express yourself clearly and positively in company
+    * **Current Focus**: Tall posture, unhurried pace, calm, confident face with slight, contented smile.
+    * *7 Observables*: Appearance, Gestures, Facial Expressions, Posture, Voice, Movement, Energy.
+    * *Craft the first 7 words*: after that you've lost people in the detail.
+    * *The rule of 3+*:
+        * ~~Me~~ (excuse to self-focus) ~~One~~ (no depth, only y/n)
+        * open (who? what? when? where? how? why?) -> *expansive* (digging for gold) "tell me more..." "help me understand..." "walk me through..." "paint me a picture..."
+        * the goal is to get to know someone well, with depth, and remember things (kids, partners, birthdays, key concerns)
+        * notes taken on talking points (if professional).
+        * end of conversation, if appropriate: "Did I get that right?" closed question to round out.
+        * **Apply this to client interviews to make sure you get the absolute most out of your meetings!!**
+    * Trust = [ Credibility() * Reliability() * Intimacy() ]
+                         [ Self-Orientation ]
+        * Implications:
+            1. Credibility and Reliability are largely defined by training, diligence and time management.
+            1. Self-Orientation is what happens when you are not *engaged* in your work
+            1. Intimacy (understanding a person, their concerns, their role, giving them a safe space) is what we can change,
