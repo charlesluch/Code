@@ -92,6 +92,7 @@ On this page you decide your direction.
     * *Improve*:
         1. Continue to resist the urge, go for fewer minutes dithering and an even quicker start on your set tasks:
             * **G**: 30 mins max on initial PO (now that it is settled, you can just touch on your focus points and go on with your priority task).
+            * *PO is great*, but **only by doing do we learn**
         1. Take meds, brush and shower,
         1. Move fast and get some exercise in,
 
