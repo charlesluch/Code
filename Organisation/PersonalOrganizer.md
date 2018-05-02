@@ -54,6 +54,7 @@ Only by *doing* do we learn.
 
 ##### How
 
+* **Everyday** you *manage* and *set goals*
 * Replace timewasting with a checklist and review:
     * If success, then reward.
     * If fail,    then improve.
@@ -81,7 +82,7 @@ Only by *doing* do we learn.
 
 * 02/05/18 Wednesday, week 10:
     * *Next up*:
-        * write and submit Lab 8
+        * ~~write and submit Lab 8~~
         * Site build
         * Qld gov health job application
         * run and test doctest quickly before submitting Lab 9
@@ -120,9 +121,7 @@ Only by *doing* do we learn.
         * notes taken on talking points (if professional).
         * end of conversation, if appropriate: "Did I get that right?" closed question to round out.
         * **Apply this to client interviews to make sure you get the absolute most out of your meetings!!**
-    * `Trust = [ Credibility() * Reliability() * Intimacy() ]
-               ----------------------------------------------
-                         [ Self-Orientation() ]`
+    * Trust = [ Credibility() * Reliability() * Intimacy() ] / [ Self-Orientation() ]
         * Implications:
             1. Credibility and Reliability are largely defined by training, diligence and time management.
             1. Self-Orientation is what happens when you are not *engaged* in your work
@@ -136,7 +135,7 @@ Only by *doing* do we learn.
 
 * Pay MBP before June
 * Claim psych
-*
+* Sunday, 19th May, 9:50am, AMEB Jared F. Ashgrove
 
 ##### Will take some time
 
