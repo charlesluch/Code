@@ -16,8 +16,6 @@ Only by *doing* do we learn.
 
 | Date    | Description                |
 | ------- |:-------------------------- |
-|  2/5/18 | Lab  8 due |
-|  2/5/18 | QLD Gov GPs |
 |  3/5/18 | Build done |
 |  7/5/18 | Apply for DXC |
 |  9/5/18 | Lab  9 due |
@@ -80,13 +78,30 @@ Only by *doing* do we learn.
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
 
+* 03/05/18 Thursday, week 10:
+* *Next up*:
+    * Trello -> PO dates
+    * (EA subscription)
+    * Well-thought-out Meal plan and whole house clean procedure to run this weekend
+    * Site build to 12pm and when you have time
+    * Run & make dinner
+    * 2pm leave
+    * salad lunch (en route from aldi...)
+* *Backlog*
+    * Assignment and lab-based study for Python, then submit: 9(doctest), A2, 10
+    * Social media user guide
+    * DXC application
+    * Full recap of scripting language to prep for exam
+    * BISIP sewed up and journal for learnings
+    * job applications
+    * project development
+
 * 02/05/18 Wednesday, week 10:
     * *Next up*:
         * ~~write and submit Lab 8~~
         * Site build
-        * Qld gov health job application
-        * run and test doctest quickly before submitting Lab 9
-        * Get going on Lab 10 and assignment 2 so you can clear the way for unadulterated scripting language study, BISIP contributions, job applications and project development.
+        * ~~Qld gov health job application~~
+
 
 * 01/05/18 Tuesday, week 10:
     * *Improved on*: did not go to procrastination straight up despite urge
@@ -134,6 +149,10 @@ Only by *doing* do we learn.
 ##### Once
 
 * Pay MBP before June
+    * Dentist @ 300 Adelaide
+    * Pilates?
+    * Physio
+    * New lenses and business computer glasses
 * Claim psych
 * Sunday, 19th May, 9:50am, AMEB Jared F. Ashgrove
 

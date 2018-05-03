@@ -43,3 +43,24 @@ Your repository of useful and active links
 ##### python
 
 * Documentation for [built-in functions](https://docs.python.org/2/library/functions.html#type)
+
+---
+
+##### Books
+
+If you are reading, you are allocating time and buying the book.
+
+* General areas:
+    * ...on curation
+    * ...on fatherhood
+    * ...on masculinity
+    * ...on algorithms
+    * ...on systems thinking
+    * ...on diet (clever guts)
+    * ...on ML and Linear Algebra
+    * ...on bodyweight training and strength training programs
+    * ...on languages (C, PHP, Python, Perl)
+* Individual titles:
+    * "Overcomplicated: technology at the limits of comprehension"
+    * "7 habits of highly effective people"
+    * **"Discipline Equals Freedom"**
