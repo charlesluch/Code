@@ -78,30 +78,45 @@ Only by *doing* do we learn.
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
 
+* 04/05/18 Friday, week 10:
+    * **NB**: The more dot points, often the less realistic the plans are...
+    * *Improvements*:
+        * There was no approaching the uncomfortable, no exercise, no work
+        * Beyond turning up, you must be smart, *hone your practice*, arrange time well and start getting *a little better each day* compared to (the comparable) yesterday at time management and task completion.
+        * today is a full day, you lucky bastard!!
+    * *Next up*:
+        * Quick kindle fix
+        * Trello -> PO dates
+        * Well-thought-out Meal plan and whole house clean procedure to run this weekend
+        * Site build - address as many Amy pts as possible
+        * Run & make dinner
+        * salad lunch
+    * *Backlog*
+        * Assignment and lab-based study for Python, then submit: 9(doctest), A2, 10
+        * Social media user guide
+        * DXC application
+        * Full recap of scripting language to prep for exam
+        * BISIP sewed up and journal for learnings
+        * job applications
+        * ML & Linear Algebra
+        * project development
+
+
 * 03/05/18 Thursday, week 10:
-* *Next up*:
-    * Trello -> PO dates
-    * (EA subscription)
-    * Well-thought-out Meal plan and whole house clean procedure to run this weekend
-    * Site build to 12pm and when you have time
-    * Run & make dinner
-    * 2pm leave
-    * salad lunch (en route from aldi...)
-* *Backlog*
-    * Assignment and lab-based study for Python, then submit: 9(doctest), A2, 10
-    * Social media user guide
-    * DXC application
-    * Full recap of scripting language to prep for exam
-    * BISIP sewed up and journal for learnings
-    * job applications
-    * project development
+    * *Next up*:
+        * Trello -> PO dates
+        * ~~(EA subscription)~~
+        * Well-thought-out Meal plan and whole house clean procedure to run this weekend
+        * Site build to 12pm and when you have time
+        * Run & make dinner
+        * 2pm leave
+        * salad lunch (en route from aldi...)
 
 * 02/05/18 Wednesday, week 10:
     * *Next up*:
         * ~~write and submit Lab 8~~
         * Site build
         * ~~Qld gov health job application~~
-
 
 * 01/05/18 Tuesday, week 10:
     * *Improved on*: did not go to procrastination straight up despite urge
