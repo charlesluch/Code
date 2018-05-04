@@ -60,7 +60,9 @@ If you are reading, you are allocating time and buying the book.
     * ...on ML and Linear Algebra
     * ...on bodyweight training and strength training programs
     * ...on languages (C, PHP, Python, Perl)
+    * ...on DevOps
 * Individual titles:
     * "Overcomplicated: technology at the limits of comprehension"
     * "7 habits of highly effective people"
     * **"Discipline Equals Freedom"**
+    * "Man: Disconnected"

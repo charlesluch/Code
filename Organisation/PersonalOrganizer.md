@@ -81,16 +81,19 @@ Only by *doing* do we learn.
 * 04/05/18 Friday, week 10:
     * **NB**: The more dot points, often the less realistic the plans are...
     * *Improvements*:
-        * There was no approaching the uncomfortable, no exercise, no work
+        * Set aside luxury, approach the uncomfortable, exercise, work, eat well and clean, plan, get ahead, be happy and be proud
         * Beyond turning up, you must be smart, *hone your practice*, arrange time well and start getting *a little better each day* compared to (the comparable) yesterday at time management and task completion.
-        * today is a full day, you lucky bastard!!
+        * today is a full day of time, you lucky bastard!!
+        * **Half** went to kindle, Handmaid's Tale, K.c and your own dick. Not a problem if you're on holiday, it is an indulgence you can't afford today, you will displace other, more important things...
     * *Next up*:
-        * Quick kindle fix
-        * Trello -> PO dates
-        * Well-thought-out Meal plan and whole house clean procedure to run this weekend
-        * Site build - address as many Amy pts as possible
-        * Run & make dinner
+        * ~~Quick kindle fix~~
         * salad lunch
+        * Well-thought-out Meal plan and whole house clean procedure to run this weekend
+            * Dishes now
+        * Site build - address as many Amy pts as possible
+        * Trello -> PO dates
+        * Run & make dinner
+
     * *Backlog*
         * Assignment and lab-based study for Python, then submit: 9(doctest), A2, 10
         * Social media user guide
