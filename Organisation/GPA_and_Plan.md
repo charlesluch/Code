@@ -18,7 +18,6 @@ Uni was chaotic and you often did not manage well, however, you have found a way
 | 2018      | Coursera ML                                |    |    |
 | SP3 2018  | CPT264 - Unix Systems Administration       |    | PC |
 | SP3 2018  | CPT230 - Software Engineering Fundamentals |    | D  |
-| SP3 2018  | CPT250 - Data Comm. and Net-Cent. Comp.    |    | PC |
 
 ---
 

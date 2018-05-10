@@ -10,6 +10,14 @@ Only by *doing* do we learn.
 
 *obtain power* by humbly and calmly bearing the *sometimes uncomfortable* burdens that come with challenge and growth.
 
+**No room for poor time use**: There is just no time for distraction
+* Job, Uni, Run, Eat well, Anna
+* *One step at a time*
+* Write and run your schedules and your *schedules only*
+* Good diet, leave home to work & don't bring your work home
+* On time is *early*, set alarms
+* *Run on schedules*, not impulse
+
 ---
 
 ##### Current Stack
@@ -17,18 +25,20 @@ Only by *doing* do we learn.
 | Date    | Description                |
 | ------- |:-------------------------- |
 |  3/5/18 | Build done |
-|  7/5/18 | Apply for DXC |
+|  ?/5/18 | Apply for DXC |
 |  9/5/18 | Lab  9 due |
-| 13/5/18 | Ax 2   due |
+|  9/5/18 | UAT due |
+| 16/5/18 | Ax 2   due |
 | 15/5/18 | DOHS ICT GP |
 | 16/5/18 | Lab 10 due |
 | 21/5/18 | ABS GP |
+| 24/5/18 | Final presentation 7:30pm |
 | 21-27   | Scripting Exam |
 | ??/?/?? | Flight Centre |
 | 18/6/18 | Census Date SP2 |
 | 17/9/18 | Census Date SP3 |
 
---- 
+---
 
 ##### Ongoing
 
@@ -78,17 +88,33 @@ Only by *doing* do we learn.
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
 
+* 08/05/18 Tuesday, Week 11:
+    * You are okay, your problem is that you can't hold on to joy, that you don't cherish it and recognize its importance. That you can't see the long view on life, that you do not enforce strict boundaries and it burns you out... The only way you keep what's really of value is if you cherish and maintain it.
+    * *time use report*
+        * **CBB**: 12:30 for one set of dishes, YouTube portal and 1/2 a laundry load
+        * **GOOD**: stopped, focused, did laundry, dishes to completion, ran, did the minutes and wrote the email to Lisa, M05/05 (3).
+    * *next up*
+        * dinner
+        * minutes and status update email to Lisa
+        * Run
+        * get status on tasks, write journal
+        * Scripting Ax
+        * DXC
+    * *improve*: **active living** - you dictate life, you engage with it and all its difficulties and challenges, you interact with it and negotiate the paths before you in line with your values. balance self-soothing with agency, by externalizing and giving up you surrender agency. Media doesn't enslave you, you learn philosophical messages from or dismiss media.
+
+
 * 05/05/18 Saturday, week 10:
     * *mentality*:
         * **DISCIPLINE!** or *displacement* of valuable and enjoyable things.
-            * approach the uncomfortable, exercise, work, eat well and clean, plan, get ahead, be happy and be proud.
+            * approach the uncomfortable, exercise, work, eat well and clean, plan, get ahead to spend time and interest with loved ones colleagues, be happy and be proud.
             * Beyond turning up, you must be smart, *hone your practice*, arrange time well and start getting *a little better each day* at time management and task completion.
     * *Next up*:
         * Chase up UAT scenarios
-        * finish the Site build
-        * Trello -> PO dates
-        * Well-thought-out Meal plan and whole house clean procedure to run this weekend
-            * Dishes now
+        * finish the site build
+        * Well-thought-out Meal plan and
+        * whole house clean procedure to run this weekend
+            * Dishes
+        * run a schedule for ex and showers
         * Run
     * *Backlog*
         * Assignment and lab-based study for Python, then submit: 9(doctest), A2, 10
@@ -113,8 +139,8 @@ Only by *doing* do we learn.
         * Well-thought-out Meal plan and whole house clean procedure to run this weekend
             * Dishes now
         * Site build - address as many Amy pts as possible
-        * Trello -> PO dates
-        * Run & make dinner
+        * ~~Trello -> PO dates~~
+        * Run & ~~make dinner~~
     * *Backlog*
         * Assignment and lab-based study for Python, then submit: 9(doctest), A2, 10
         * Social media user guide
@@ -124,7 +150,6 @@ Only by *doing* do we learn.
         * job applications
         * ML & Linear Algebra
         * project development
-
 
 * 03/05/18 Thursday, week 10:
     * *Next up*:
