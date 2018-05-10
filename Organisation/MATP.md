@@ -2,9 +2,12 @@
 
 ##### *Only* the best you
 
-| schedule | health | pre-deadlines | 15 mins is early |
-| -------- | ------ | ------------- | ---------------- |
-| schedule | health | pre-deadlines | 15 mins is early |
+| schedule     | health     | pre-deadlines     | 15 min early is on time     |
+| ------------ | ---------- | ----------------- | --------------------------- |
+| **own you**  | **health** | **pre-deadlines** | **work hard, smart & lots** |
+| **schedule** | **enthusiastic engagement** | **small, realistic steps** |**own your responsibilities**|
+| **schedule** | **enthusiastic engagement** | **small, realistic steps** |**own your responsibilities**|
+
 
 * **G**: realize the best version of yourself,
     * strive to be the hardest working person on the planet,
