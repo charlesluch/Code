@@ -68,6 +68,8 @@ grow everyday, get logarithmically closer to your optimal activities, take on mo
 ##### Books
 
 * New Power (book) Actionable,... ,Extensible
+* Basketball Gypsy with the Low Threshold (Malcolm Gladwell) to behave outside of the group.
+*
 
 ---
 
