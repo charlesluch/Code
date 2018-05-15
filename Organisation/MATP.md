@@ -1,5 +1,25 @@
 # Motivation, Attitude, Tasks and Purpose
 
+On this page you decide your direction.
+
+**Mission**: *Everyday* you will calmly use your will and intelligence to *overcome the obstacles* between you and contributing meaningfully to fulfilling *work*
+
+Don't stress, *progress*.
+
+Only by *doing* do we learn.
+
+*obtain power* by humbly and calmly bearing the *sometimes uncomfortable* burdens that come with challenge and growth.
+
+**No room for poor time use**: There is just no time for distraction
+* Job, Uni, Run, Eat well, Anna
+* *One step at a time*
+* Write and run your schedules and your *schedules only*
+* Good diet, leave home to work & don't bring your work home
+* On time is *early*, set alarms
+* *Run on schedules*, not impulse
+
+---
+
 ##### *Only* the best you
 
 | schedule     | health     | pre-deadlines     | 15 min early is on time     |

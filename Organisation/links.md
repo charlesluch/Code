@@ -4,11 +4,17 @@ Your repository of useful and active links
 
 ##### Apply
 
-1. [QLD Government roles](https://www.qld.gov.au/jobs/finding/graduates/opportunities/recent-graduates) Health first by May 2
 1. [DXC Graduate Program](https://cmgrecruit.nga.net.au/cp/index.cfm?event=jobs.home&CurATC=DXC&CurBID=2184CB7C-DB66-4682-7E7C-9AFECC87ED72&persistVariables=CurATC,CurBID) by May 7
 1. [DOHS ICT Grad Program](https://www.humanservices.gov.au/organisations/about-us/careers/stem-scheme?utm_campaign=stem2018&utm_source=gradaust&utm_medium=website&utm_content=jobpost) by May 15
+1. [KPMG - Canberra](http://www.gobeyond.kpmg.com.au/grad/en/job/501327/2019-graduate-technology-enablement-canberra) by May 17
 1. [ABS GP](https://gradaustralia.com.au/abs-2019-graduate-development-program) by May 21
 1. [Flight Center GP](https://au.gradconnection.com/employers/flight-centre-travel-group/jobs/flight-centre-travel-group-graduate-program-retail-leadership-brisbane-2/) with an aim to fit a  [UX/UI](http://careers.fctgcareers.com/cw/en/job/497976/uxui-designer-brisbane) role  
+
+---
+
+###### Awaiting next steps and feedback
+
+1. [QLD Government roles](https://www.qld.gov.au/jobs/finding/graduates/opportunities/recent-graduates) Health first by May 2
 
 ---
 
