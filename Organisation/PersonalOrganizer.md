@@ -20,7 +20,7 @@ On this page you organise and improve your efforts day-by-day.
 | 29/05/18 | 13:30 Scripting Exam |
 | 31/05/18 | 11:30am Client training session |
 | ??/??/?? | Flight Centre |
-|  5/06/18 | Last day to pay Medibank ($800 to get current, $1200 to claim for a month) |
+|  6/06/18 | joint gets $200 a fn from now on for Medibank |
 | 18/06/18 | Census Date SP2 |
 | 17/09/18 | Census Date SP3 |
 
@@ -28,22 +28,12 @@ On this page you organise and improve your efforts day-by-day.
 
 ##### today
 
-* 15/05/18 Tuesday, Week 12:
-    * 1pm
-        * ~~start dinner, dishes until meeting, then maintain and continue so that at the meeting end you can move on to the job application and lab 10~~
-        * meeting concluded, you have 1 hr 15 mins to do the dishes, submit a job application and get Anna to the physio. After a further day you will need to have Lab 10 done so get cracking!!
-    * Up early to do tasks in order of priority:
-        1. DOHS GP
-        1. submit lab 10
-        1. assignment 2 SLP
-        1. check up on BISIP & social media user guide
-        1. DXC, ABS
-        1. final presentation prep
-        1. exam study for SLP
-        1. lesson plan (user stories and exercises) for client training session
-    * Dinner & clean
-    * 2pm client meeting (parking Q)
-    * tasks
+* tasks in order of priority:
+    1. DOHS GP
+    1. submit lab 10
+    1. assignment 2 SLP
+
+* 7:30pm group meeting tonight 15/05/18
 
 * 16/05/18 Wednesday, Week 12:
     * tasks
@@ -51,12 +41,20 @@ On this page you organise and improve your efforts day-by-day.
     * be early for a 4:30 Abbie AND BRING JK SOP FOR JOHN!
     * prep 2* lunch & dinner, dishes.
 
-* 16/05/18 Wednesday, Week 12:
+* 17/05/18 Thursday, Week 12:
     * tasks
-    * 12pm run
+    * 12pm floor exercise - skip, push, kettle bells, lunges, 90/90s, side plank, leg extentions, ...
     * be early for a 3pm Georgia
-    *
 
+* 18/05/18 Friday, Week 12:
+    * before 8:45am - last run before 6:30am Sunday
+    * 10:30am psych
+    * Tasks - heavy emphasis on A2, complete 1st draft.
+
+* remaining tasks:
+    1. DXC, ABS
+    1. BISIP - presentation, user guide and lesson plan
+    1. SLP - after A2, massive study cram based on exercises
 ---
 
 ##### Ongoing
@@ -107,7 +105,22 @@ On this page you organise and improve your efforts day-by-day.
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
 
-
+* 15/05/18 Tuesday, Week 12:
+    * 1pm
+        * ~~start dinner, dishes until meeting, then maintain and continue so that at the meeting end you can move on to the job application and lab 10~~
+        * meeting concluded, you have 1 hr 15 mins to do the dishes, submit a job application and get Anna to the physio. After a further day you will need to have Lab 10 done so get cracking!!
+    * Up early to do tasks in order of priority:
+        1. DOHS GP
+        1. submit lab 10
+        1. assignment 2 SLP
+        1. check up on BISIP & social media user guide
+        1. DXC, ABS
+        1. final presentation prep
+        1. exam study for SLP
+        1. lesson plan (user stories and exercises) for client training session
+    * Dinner & clean
+    * 2pm client meeting (parking Q)
+    * tasks
 
 * 08/05/18 Tuesday, Week 11:
     * You are okay, your problem is that you can't hold on to joy, that you don't cherish it and recognize its importance. That you can't see the long view on life, that you do not enforce strict boundaries and it burns you out... The only way you keep what's really of value is if you cherish and maintain it.
