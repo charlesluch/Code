@@ -9,11 +9,9 @@ On this page you organise and improve your efforts day-by-day.
 | Date     | Description                |
 | -------- |:-------------------------- |
 | ??/05/18 | Call Aunt Susan, Clare, Susie |
-| 15/05/18 | 2pm Client weekly meeting |
-| 15/05/18 | DOHS ICT GP |
 | 16/05/18 | Lab 10 due |
 | 18/05/18 | 10:30am Psych appointment |
-| 20/05/18 | Ax 2   due |
+| 20/05/18 | Ax 2 due |
 | 21/05/18 | Apply for DXC |
 | 21/05/18 | ABS GP |
 | 24/05/18 | Final presentation 7:30pm |
@@ -29,9 +27,13 @@ On this page you organise and improve your efforts day-by-day.
 ##### today
 
 * tasks in order of priority:
-    1. DOHS GP
     1. submit lab 10
     1. assignment 2 SLP
+    1. structure and allocation of the final report
+    1. presentation
+    1. DXC and ABS ASAP
+    1. maybe technical report...
+
 
 * 7:30pm group meeting tonight 15/05/18
 
