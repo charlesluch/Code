@@ -1,0 +1,131 @@
+Scripting Language Programming
+Assignment 2
+
+
+Student Name : 
+Student ID   : 
+
+==============================================================
+
+1. General requirements									/-10..10
+
+
+- Coding style
+	
+	
+- Comments
+	
+	
+- Modularity
+
+
+
+1.1 Submission as required								/-10..0
+
+
+
+
+==============================================================
+2.	Part 1: IFTTT clone										45
+
+
+---------------------------------------------------------------
+2.1. Identifies config file/alternative						/2
+
+
+
+---------------------------------------------------------------
+2.2. Reads in json											/3
+
+
+
+------------------------------------------------------------------
+2.3. Exits on invalid config.json format					   /3
+
+
+
+------------------------------------------------------------------
+2.4. Run flows													/8
+
+
+
+------------------------------------------------------------------
+2.5. Runs services												/6
+
+
+
+------------------------------------------------------------------
+2.6. Inputs from one service passed to the next					/6
+
+
+
+------------------------------------------------------------------
+2.6. Runs every minute									   		/2
+
+The program should commence cycling through all the flows at the
+start of every minute.
+However if a flow runs overtime this rule won't apply.
+
+
+
+------------------------------------------------------------------
+2.7. Services													/6
+
+
+
+------------------------------------------------------------------
+2.8. special symbol $$ substitution								/6
+
+
+
+------------------------------------------------------------------
+2.9. Single flow stops on fail result of a service				/3
+
+
+
+===================================================================
+3.	Part 2: More complicated IFTTT clone						/45
+
+------------------------------------------------------------------
+
+3.1. Loads flow configuration file on changes					/5
+
+
+
+------------------------------------------------------------------
+
+3.2. Reloads service configuration file on changes				 /5
+
+
+
+------------------------------------------------------------------
+
+3.3. Configuration file format validated						/15
+
+This means checking that the following fields are present:
+*	name
+*	program
+*	description
+
+As well if the other fields are present the checks you need to make are...
+*	parameters	: string
+*	input, output : have a type field, and one of the set values.
+
+------------------------------------------------------------------
+
+3.4. Services accept/emit json format 							/10
+	 Previous services recoded for new format
+
+
+
+------------------------------------------------------------------
+
+3.5. Program ensures data passed is formatted as specified		/10
+	stops the flow if in error
+
+
+
+
+===================================================================
+Any other comments...
+

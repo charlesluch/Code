@@ -9,15 +9,12 @@ On this page you organise and improve your efforts day-by-day.
 | Date     | Description                |
 | -------- |:-------------------------- |
 | ??/05/18 | Call Aunt Susan, Clare, Susie |
-| 16/05/18 | Lab 10 due |
-| 18/05/18 | 10:30am Psych appointment |
-| 20/05/18 | Ax 2 due |
-| 21/05/18 | Apply for DXC |
-| 21/05/18 | ABS GP |
 | 24/05/18 | Final presentation 7:30pm |
+| 27/05/18 | Ax 2 due |
+| 28/05/18 | ABS GP |
 | 29/05/18 | 13:30 Scripting Exam |
 | 31/05/18 | 11:30am Client training session |
-| ??/??/?? | Flight Centre |
+| 01/06/18 | Flight Centre |
 |  6/06/18 | joint gets $200 a fn from now on for Medibank |
 | 18/06/18 | Census Date SP2 |
 | 17/09/18 | Census Date SP3 |
@@ -26,37 +23,11 @@ On this page you organise and improve your efforts day-by-day.
 
 ##### today
 
-* tasks in order of priority:
-    1. submit lab 10
-    1. assignment 2 SLP
-    1. structure and allocation of the final report
-    1. presentation
-    1. DXC and ABS ASAP
-    1. maybe technical report...
-
-
-* 7:30pm group meeting tonight 15/05/18
-
-* 16/05/18 Wednesday, Week 12:
-    * tasks
-    * 1:30pm run
-    * be early for a 4:30 Abbie AND BRING JK SOP FOR JOHN!
-    * prep 2* lunch & dinner, dishes.
-
-* 17/05/18 Thursday, Week 12:
-    * tasks
-    * 12pm floor exercise - skip, push, kettle bells, lunges, 90/90s, side plank, leg extentions, ...
-    * be early for a 3pm Georgia
-
-* 18/05/18 Friday, Week 12:
-    * before 8:45am - last run before 6:30am Sunday
-    * 10:30am psych
-    * Tasks - heavy emphasis on A2, complete 1st draft.
-
 * remaining tasks:
-    1. DXC, ABS
-    1. BISIP - presentation, user guide and lesson plan
+    1. BISIP - presentation, final report and lesson plan
     1. SLP - after A2, massive study cram based on exercises
+    1. ABS
+    
 ---
 
 ##### Ongoing
@@ -106,6 +77,31 @@ On this page you organise and improve your efforts day-by-day.
 
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+* tasks in order of priority:
+    1. assignment 2 SLP
+    1. structure and allocation of the final report
+    1. presentation
+    1. ABS ASAP
+
+
+* 7:30pm group meeting tonight 15/05/18
+
+* 16/05/18 Wednesday, Week 12:
+    * tasks
+    * 1:30pm run
+    * be early for a 4:30 Abbie AND BRING JK SOP FOR JOHN!
+    * prep 2* lunch & dinner, dishes.
+
+* 17/05/18 Thursday, Week 12:
+    * tasks
+    * 12pm floor exercise - skip, push, kettle bells, lunges, 90/90s, side plank, leg extentions, ...
+    * be early for a 3pm Georgia
+
+* 18/05/18 Friday, Week 12:
+    * before 8:45am - last run before 6:30am Sunday
+    * 10:30am psych
+    * Tasks - heavy emphasis on A2, complete 1st draft.
 
 * 15/05/18 Tuesday, Week 12:
     * 1pm
