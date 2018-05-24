@@ -8,11 +8,11 @@ On this page you organise and improve your efforts day-by-day.
 
 | Date     | Description                |
 | -------- |:-------------------------- |
-| ??/05/18 | Call Aunt Susan, Clare, Susie |
-| 24/05/18 | Final presentation 7:30pm |
+| ??/05/18 | Call Susie, Aunt Susan, Sean, Alex, Jack and Clare |
 | 27/05/18 | Ax 2 due |
-| 28/05/18 | ABS GP |
+| 28/05/18 | ABS GP, Prep for and complete DXC Ax,  |
 | 29/05/18 | 13:30 Scripting Exam |
+| 30/05/18 | Final presentation 7:30pm |
 | 31/05/18 | 11:30am Client training session |
 | 01/06/18 | Flight Centre |
 |  6/06/18 | joint gets $200 a fn from now on for Medibank |
@@ -27,7 +27,7 @@ On this page you organise and improve your efforts day-by-day.
     1. BISIP - presentation, final report and lesson plan
     1. SLP - after A2, massive study cram based on exercises
     1. ABS
-    
+
 ---
 
 ##### Ongoing
