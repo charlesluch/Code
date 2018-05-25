@@ -23,7 +23,7 @@ Uni was chaotic and you often did not manage well, however, you have found a way
 
 ##### Current subject result goals
 
-SLP `13.2 = 10 + 3.2 // 16.8 + 10 = 26.8`
+SLP `13.2 =  + 3.2 // 16.8 + 10 = 26.8`
 6% to go in Lx, *aim for 5*, 20% in A2, *aim for 15* 50% in exam *aim for 30*
 Result = `10 + 3.2 + 4 + 10 + 25 = 52.2`
 

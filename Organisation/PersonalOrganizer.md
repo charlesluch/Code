@@ -15,6 +15,7 @@ On this page you organise and improve your efforts day-by-day.
 | 30/05/18 | Final presentation 7:30pm |
 | 31/05/18 | 11:30am Client training session |
 | 01/06/18 | Flight Centre |
+| 01/06/18 | Field QL interview |
 |  6/06/18 | joint gets $200 a fn from now on for Medibank |
 | 18/06/18 | Census Date SP2 |
 | 17/09/18 | Census Date SP3 |
@@ -26,7 +27,9 @@ On this page you organise and improve your efforts day-by-day.
 * remaining tasks:
     1. BISIP - presentation, final report and lesson plan
     1. SLP - after A2, massive study cram based on exercises
-    1. ABS
+    1. ABS, DXC
+
+*
 
 ---
 
