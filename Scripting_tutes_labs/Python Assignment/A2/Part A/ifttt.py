@@ -12,6 +12,7 @@ import sys
 import re
 from pathlib import Path
 
+
 # get IP location from IP API - https://ipapi.co/
 def getLocation():
     response = requests.get('https://ipapi.co/json')
@@ -19,24 +20,23 @@ def getLocation():
     longitude = response.headers.get('longitude')
     return latitude, longitude, sys.exit(0)
 
-def main():
+def main(argv):
 
     # identification of an existing config file in json format in the first command line argument after
     p = re.compile('\S+\.json')
 
-    for i in sys.argv():
+    for i in sys.argv[i]:
         re.match(p,i)
         if(match):
-            try:
-                file = Path(i)
-                if file.is_file():
-                    config = i
-                    break
+            file = Path(i)
+            if file.is_file():
+                config = i
+                break
         else:
             config = './ifttt.json'
 
     # mandatory fields are name, program and description
-    for service in config:
+#    for service in config:
         # check json for the headers...
 
 	# Get the API key
@@ -46,14 +46,15 @@ def main():
 
 
 	# I've placed it in a file because I don't want you to see it!
-    with open(".env") as file:
-    	apiKey = file.readline().strip()
+#    with open(".env") as file:
+#    	apiKey = file.readline().strip()
 
 
 
     # do more stuff here...
-    print (str(time)) #################################### !!!!!!!
+#    print (str(time)) #################################### !!!!!!!
 
-main()
+if __name__ == "__main__":
+    main(sys.argv[1:])
 
 sys.exit(0)
