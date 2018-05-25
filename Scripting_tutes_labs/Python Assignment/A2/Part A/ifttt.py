@@ -3,9 +3,6 @@
 # Documentation for the requests system
 # http://docs.python-requests.org/en/master/
 
-# To access forecasts you'll need a forecast.io account (free)
-# This will give you an API key that you use in each call
-
 import requests
 import json			# so we can decode the response
 import sys
@@ -13,18 +10,18 @@ import re
 from pathlib import Path
 
 
-# get IP location from IP API - https://ipapi.co/
-def getLocation():
-    response = requests.get('https://ipapi.co/json')
-    latitude = response.headers.get('latitude')
-    longitude = response.headers.get('longitude')
-    return latitude, longitude, sys.exit(0)
+# your program is driven by the json file, which defines what things have to happen.
+# you read the file and see "ah, I have to kick off the action to get the date, then get the output from that, and feed it into the next thing to be run. I'll keep doing that until the workflow is complete, or tells me to stop."
 
 def main(argv):
 
     # identification of an existing config file in json format in the first command line argument after
     p = re.compile('\S+\.json')
+    config = ''
+    output = ''
 
+    try:
+        opts, args = getopt.getopt(argv,)
     for i in sys.argv[i]:
         re.match(p,i)
         if(match):
@@ -35,9 +32,11 @@ def main(argv):
         else:
             config = './ifttt.json'
 
-    # mandatory fields are name, program and description
-#    for service in config:
-        # check json for the headers...
+    with open(config) as c:
+        plan = json.load(c)
+
+        for# check json for the headers...
+
 
 	# Get the API key
 
@@ -49,10 +48,6 @@ def main(argv):
 #    with open(".env") as file:
 #    	apiKey = file.readline().strip()
 
-
-
-    # do more stuff here...
-#    print (str(time)) #################################### !!!!!!!
 
 if __name__ == "__main__":
     main(sys.argv[1:])

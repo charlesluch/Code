@@ -14,7 +14,7 @@ Uni was chaotic and you often did not manage well, however, you have found a way
 | SP1 2018  | CPT222 - Software Architecture: D&I        | PC |    |
 | SP1 2018	| CPT223 - Scripting Language Programming    |    |    |
 | SP2 2018  | CPT111 - Building IT Systems               |    | D  |
-| SP2 2018  | CPT251 - Security in Computing and IT      |    | C  |
+| SP2 2018  | CPT251 - Security in Computing and IT      |    | PC |
 | 2018      | Coursera ML                                |    |    |
 | SP3 2018  | CPT264 - Unix Systems Administration       |    | PC |
 | SP3 2018  | CPT230 - Software Engineering Fundamentals |    | D  |
@@ -44,6 +44,8 @@ Total grade points divided by the total credit points = Grade Point Average.
 `GPA = (33*12.5) / (17*12.5) = 33/17 = 1.94`
 
 ###### Projected GPA
+
+revise based on new plan to complete last level 3 Swinburne and 2 level 1 RMIT subjects while I work on my portfolio of projects.
 
 `GPA = (46*12.5) / (22*12.5) = 46/22 = 2.09`
 

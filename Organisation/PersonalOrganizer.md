@@ -13,7 +13,7 @@ On this page you organise and improve your efforts day-by-day.
 | 28/05/18 | ABS GP, Prep for and complete DXC Ax,  |
 | 29/05/18 | 13:30 Scripting Exam |
 | 30/05/18 | Final presentation 7:30pm |
-| 31/05/18 | 11:30am Client training session |
+| 31/05/18 | 11:30am Client training session, 7:30 last team meet BISIP |
 | 01/06/18 | Flight Centre |
 | 01/06/18 | Field QL interview |
 |  6/06/18 | joint gets $200 a fn from now on for Medibank |

@@ -9,7 +9,7 @@ def main(latitude, longitude):
     RiseSetURL = "api.sunrise-sunset.org/json?lat=" + latitude + "&lng=" + longitude
     response = requests.get('https://' + RiseSetURL)
     sunset = response.headers.get('sunset')
-    return sunset, sys.exit(0)
+    return sunset
 
 try:
   main()

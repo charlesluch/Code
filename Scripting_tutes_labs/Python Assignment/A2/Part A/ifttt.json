@@ -1,70 +1,20 @@
 {
    "services":{
 
-       "date and time":{
-           "name":"getDateTime",
-           "program":"./ifttt.py",
-           "parameters":"",
-           "description":"Returns the current date and time based on the IP address of the user",
-           "input":{
-               "type":"int"
-           },
-           "output":{
-               "type":"string"
-           }
-       },
-
-       "time":{
-           "name":"getDateTime",
-           "program":"./ifttt.py",
-           "parameters":"'+%H:%M:%S'",
-           "description":"Returns the current time based on the IP address of the user",
-           "input":{
-               "type":"int"
-           },
-           "output":{
-               "type":"string"
-           }
-       },
-
-       "get location":{
-           "name":"getLocation",
-           "program":"./ifttt.py",
-           "description":"Returns geolocation and time zone information based on the user's IP address",
+       "location":{
+           "name":"Location",
+           "program":"./location.py",
+           "description":"Returns the location of the user's internet provider",
            "output":{
                "type":"float",
                "type":"float",
-               "type":"int",
-           },
-           "fields":"latitude, longitude, utc_offset",
-      },
-
-      "get sunrise and sunset":{
-          "name":"getRiseSetTimes",
-          "program":"./ifttt.py",
-          "description":"Returns the times for sunrise and sunset, among other related information, when provided with an API request containing longitude and latitude",
-          "input":{
-              "type":"string"
-          },
-          "output":{
-              "type":"time",
-              "type":"time"
-          },
-          "fields":"sunrise, sunset"
-          }
+           }
        },
 
        "morning":{
            "name":"Morning",
            "program":"./morning.py",
-           "description":"Returns true when the input time is between 12pm and 6pm",
-           "configuration":{
-               "any":"the key value pairs you need for the program",
-           },
-           "parameters":"the parameters you need for the program",
-           "input":{
-               "type":"time",
-           },
+           "description":"Returns true when the current local time is between 12am and 6am",
            "output":{
                "type":"boolean"
            }
@@ -74,72 +24,67 @@
            "name":"Afternoon",
            "program":"./afternoon.py",
            "description":"Returns true when the input time is between 12pm and 6pm",
-           "configuration":{
-               "any":"the key value pairs you need for the program",
-           },
-           "parameters":"the parameters you need for the program",
-           "input":{
-               "type":"time",
-           },
            "output":{
                "type":"boolean"
            }
-       },
+        },
 
        "evening":{
           "name":"Evening",
           "program":"./evening.py",
           "description":"Returns true when the input time is between 6pm and 12am",
-          "configuration":{
-              "any":"the key value pairs you need for the program",
-          },
-          "parameters":"the parameters you need for the program",
-          "input":{
-              "type":"time",
-          },
           "output":{
               "type":"boolean"
               }
        },
 
-      "dropzone":{
-         "name":"Dropzone",
-         "program":"./files.py",
-         "parameters":"/Users/dale/Desktop/dropzone/",
-         "description":"Saves files in a directory parsed into the program",
+       "quit if false":{
+           "name":"Quit if false",
+           "program":"./quit_if_false.py",
+           "parameters":"",
+           "description":"Triggers an exit of the main script if the prior service in the flow returns sys.exit(1)",
+           "input":{
+               "type":"boolean"
+           }
+       },
 
+       "not":{
+           "name":"Not",
+           "program":"./not.py",
+           "description":"Changes the sys.exit() error code from 0 to 1 or vice versa",
+           "input":{
+               "type":"boolean",
+           },
+           "output":{
+               "type":"boolean",
+           },
       },
 
-      "filter zip":{
-          "name":"Filter zip",
-         "program":"./filter.py",
-         "parameters":".+\\.zip",
-         "description":"a program for finding zip files"
-      },
+      "sunrise":{
+          "name":"Sunrise",
+          "program":"./sunrise.py",
+          "description":"Returns the time for sunrise based on a given latitude and longitude",
+          "input":{
+              "type":"float",
+              "type":"float"
+          },
+          "output":{
+              "type":"time"
+          },
+       },
 
-      "unzip files":{
-          "name":"Unzip files",
-         "program":"./unzip.py",
-         "description":"opens up zip files"
-      },
+      "sunset":{
+          "name":"Sunset",
+          "program":"./sunset.py",
+          "description":"Returns the time for sunset based on a given latitude and longitude",
+          "input":{
+              "type":"float",
+              "type":"float"
+          },
+          "output":{
+              "type":"time"
+          },
 
-      "append to file":{
-          "name":"Append to file",
-         "program":"./append.py",
-         "parameters":"zip_contents.txt",
-         "description":"saves files in the output file parsed in"
-      },
-
-      "quit if false":{
-          "name":"Quit if false",
-         "program":"./quit_if_false.py",
-         "description":"quits the program if sys.exit(1) is returned"
-      },
-
-      "not":{
-          "name":"Not",
-         "program":"./not.py",
-         "description":"reverses the boolean output of a function so that if false is returned, true is returned from this function"
       },
 
    "echo":{
@@ -147,47 +92,59 @@
       "parameters":"{{$input}}"
    },
 
+   "append to file":{
+    "name":"Append to file",
+   "program":"./append.py",
+   "description":"saves files in the output file parsed in"
+},
+
+"wait":{
+    "name":"Wait",
+    "program":"./wait.py",
+    "description":"wait will only return true after a set amount of time has passed since its last call",
+}
+}
+{
    "flows":{
-      "Auto open zip files":[
-         "dropzone",
-         "filter zip",
-         "unzip files",
-         "append to file"
-     ],
 
       "Append at morning":[
-         "time",
          "morning",
          "quit if false",
-         "date and time",
          "append to file"
      ],
 
      "Append at afternoon":[
-        "time",
         "afternoon",
         "quit if false",
-        "date and time",
         "append to file"
     ],
 
       "Append at evening":[
-         "time",
          "evening",
          "quit if false",
-         "date and time",
          "append to file"
      ],
 
-     "Append if sundown":[
-        "time",
-        "get sunrise and sunset",
-        "sundown",
+     "Append sunset time":[
+        "location",
+        "sunset",
         "quit if false",
-        "date and time",
         "append to file"
     ],
 
+    "Append sunrise time":[
+       "location",
+       "sunrise",
+       "quit if false",
+       "append to file"
+   ],
+
+   "Append time at evening":[
+      "evening",
+      "quit if false",
+      "time",
+      "append to file"
+  ]
 
    }
 }

@@ -16,7 +16,7 @@ def main():
         return sys.exit(1)
 
 try:
-  main(sys.argv[1])
+  main()
 except:
   sys.exit(1)
 
