@@ -11,6 +11,8 @@ ifttt.com is a program that uses third party APIs to deliver functionality to it
 
 In order to run this program, it is important to make sure that the JSON configuration file exists in the same directory as the extracted files and that it contains the mandatory components for the called application to run: a service name, a program directory and a service description.
 
+as a prerequisite to running this program you must install pipenv and the requests module, instructions for how to do this can be found at: http://html.python-requests.org/
+
 ******************** what to expect from the program ********************
 
 The program functions as follows:
@@ -23,19 +25,19 @@ The program functions as follows:
 
  * to run the configuration settings written by the student, enter the following into the command line at the directory of the extracted files:
 
-> python  ./[filename of service].py "[output file].[file type]"
+> python  ./ifttt.py "[output file].[file type]"
 
                                     OR
 
-> python  ./morning.py "output.txt"
+> python  ./ifttt.py "output.txt"
 
 * if the configuration file you desire to use with this program is different to the one provided (ifttt.json) and you have made sure that it contains all the mandatory components (name, program, description) as mentioned earlier in this readme, you may redirect the configuration file by using the following commands:
 
-> python  ./[filename of service].py "[output file].[file type]" "[alternate configuration file filename].json"
+> python  ./ifttt.py "[output file].[file type]" "[alternate configuration file filename].json"
 
                                     OR
 
-> python  ./append.py "output.txt" altConfigFile.json
+> python  ./ifttt.py "output.txt" "altConfigFile.json"
 
 
 ************************ what errors are handled ************************

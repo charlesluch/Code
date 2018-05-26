@@ -7,7 +7,7 @@
            "description":"Returns the location of the user's internet provider",
            "output":{
                "type":"float",
-               "type":"float",
+               "type":"float"
            }
        },
 
@@ -53,10 +53,10 @@
            "program":"./not.py",
            "description":"Changes the sys.exit() error code from 0 to 1 or vice versa",
            "input":{
-               "type":"boolean",
+               "type":"boolean"
            },
            "output":{
-               "type":"boolean",
+               "type":"boolean"
            },
       },
 
@@ -101,7 +101,7 @@
 "wait":{
     "name":"Wait",
     "program":"./wait.py",
-    "description":"wait will only return true after a set amount of time has passed since its last call",
+    "description":"wait will only return true after a set amount of time has passed since its last call"
 }
 }
 {

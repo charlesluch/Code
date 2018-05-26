@@ -3,10 +3,10 @@
 # Documentation for the requests system
 # http://docs.python-requests.org/en/master/
 
-import requests
-import json			# so we can decode the response
+import json
 import sys
 import re
+import argparse
 from pathlib import Path
 
 
@@ -15,27 +15,53 @@ from pathlib import Path
 
 def main(argv):
 
-    # identification of an existing config file in json format in the first command line argument after
-    p = re.compile('\S+\.json')
-    config = ''
+    # parses in configuration and output filenames as entered into the command line
+    parser = argparse.ArgumentParser()
     output = ''
+    config = ''
 
-    try:
-        opts, args = getopt.getopt(argv,)
-    for i in sys.argv[i]:
-        re.match(p,i)
+
+    if len(sys.argv) < 3:
+        parser.add_argument('outputFile', help='the directory of the output file')
+        args = parser.parse_args()
+        output = args.outputFile
+    else:
+        parser.add_argument('outputFile', help='the directory of the output file')
+        parser.add_argument('configFile', help='the directory of the .json configuration file')
+        args = parser.parse_args()
+        output = args.outputFile
+        config = args.configFile
+
+    # checkng for the existance of a .json file at the path specified
+    if(config):
+        p = re.compile('\S+\.json')
+        re.match(p,config)
         if(match):
-            file = Path(i)
-            if file.is_file():
-                config = i
-                break
-        else:
-            config = './ifttt.json'
+            jFile = Path(config)
+            if jFile.is_file():
+                realConfig = config
+    else:
+        realConfig = './ifttt.json'
 
-    with open(config) as c:
+        # contents of the .json file still yet to be verified
+
+
+    # read the contents of the .json configuration file and let that file dictate the actions of the program.
+    with open(realConfig) as c:
         plan = json.load(c)
 
-        for# check json for the headers...
+    print(plan)
+
+
+        # PROCESSING OUTPUT FILE
+
+        # the output file is created and may not exist before the program has to run,
+
+            #if there is output and the file is not detected, first make sure the file is created, then go on to write to it,
+
+            #if not, then create it before you write.
+
+    # check json for the headers as specified in the json file
 
 
 	# Get the API key
