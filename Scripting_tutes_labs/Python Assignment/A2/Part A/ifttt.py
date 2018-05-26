@@ -7,7 +7,15 @@ import json
 import sys
 import re
 import argparse
+import io
+import subprocess
 from pathlib import Path
+from subprocess import run, PIPE
+
+
+# thanks to catherineh's Catherine's Auxiliary Brain for this bug fix that resolves the error:
+# OSError: [WinError 193] %1 is not a valid Win32 application
+# http://catherineh.github.io/programming/2016/07/07/troubleshooting-windows-dll-imports-in-python
 
 
 # your program is driven by the json file, which defines what things have to happen.
@@ -35,7 +43,7 @@ def main(argv):
     # checkng for the existance of a .json file at the path specified
     if(config):
         p = re.compile('\S+\.json')
-        re.match(p,config)
+        match = re.match(p,config)
         if(match):
             jFile = Path(config)
             if jFile.is_file():
@@ -45,12 +53,35 @@ def main(argv):
 
         # contents of the .json file still yet to be verified
 
+    with io.open(realConfig, 'r', encoding='utf8') as c:
+        try:
+            plan = json.load(c)
+            c.close()
+        except json.decoder.JSONDecodeError as err:
+            print("\nError: there is a problem with your JSON config file:\n",err.msg,"on Line:", err.lineno, "of", str(realConfig))
+            return sys.exit(1)
 
     # read the contents of the .json configuration file and let that file dictate the actions of the program.
-    with open(realConfig) as c:
-        plan = json.load(c)
+    for flow in plan['flows']:
+        print("\nFlow is:", flow)
+        for service in plan['flows'][flow]:
+            print("\tcalling service:", service)
 
-    print(plan)
+            # open the service and run the external program
+            programFile = plan['services'][service]['program']
+
+            print(programFile)
+
+            p = run(programFile, stdout=PIPE, input='', encoding='utf-8')
+            print(p.returncode)
+            print(p.stdout)
+
+
+
+    #with open(realConfig) as c:
+    #    plan = json.loads(c)
+
+    #print(plan)
 
 
         # PROCESSING OUTPUT FILE

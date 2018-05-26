@@ -13,6 +13,13 @@ In order to run this program, it is important to make sure that the JSON configu
 
 as a prerequisite to running this program you must install pipenv and the requests module, instructions for how to do this can be found at: http://html.python-requests.org/
 
+but to save you the reading, just type:
+
+> install pipenv requests-html
+
+into the command prompt of the computer you have installed Python 3 on :)
+
+
 ******************** what to expect from the program ********************
 
 The program functions as follows:

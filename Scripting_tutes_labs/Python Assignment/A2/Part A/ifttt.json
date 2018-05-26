@@ -6,7 +6,6 @@
            "program":"./location.py",
            "description":"Returns the location of the user's internet provider",
            "output":{
-               "type":"float",
                "type":"float"
            }
        },
@@ -57,7 +56,7 @@
            },
            "output":{
                "type":"boolean"
-           },
+           }
       },
 
       "sunrise":{
@@ -65,12 +64,11 @@
           "program":"./sunrise.py",
           "description":"Returns the time for sunrise based on a given latitude and longitude",
           "input":{
-              "type":"float",
               "type":"float"
           },
           "output":{
               "type":"time"
-          },
+          }
        },
 
       "sunset":{
@@ -78,12 +76,11 @@
           "program":"./sunset.py",
           "description":"Returns the time for sunset based on a given latitude and longitude",
           "input":{
-              "type":"float",
               "type":"float"
           },
           "output":{
               "type":"time"
-          },
+          }
 
       },
 
@@ -103,8 +100,8 @@
     "program":"./wait.py",
     "description":"wait will only return true after a set amount of time has passed since its last call"
 }
-}
-{
+},
+
    "flows":{
 
       "Append at morning":[
