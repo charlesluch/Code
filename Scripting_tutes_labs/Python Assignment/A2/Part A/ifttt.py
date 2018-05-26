@@ -13,11 +13,6 @@ from pathlib import Path
 from subprocess import run, PIPE
 
 
-# thanks to catherineh's Catherine's Auxiliary Brain for this bug fix that resolves the error:
-# OSError: [WinError 193] %1 is not a valid Win32 application
-# http://catherineh.github.io/programming/2016/07/07/troubleshooting-windows-dll-imports-in-python
-
-
 # your program is driven by the json file, which defines what things have to happen.
 # you read the file and see "ah, I have to kick off the action to get the date, then get the output from that, and feed it into the next thing to be run. I'll keep doing that until the workflow is complete, or tells me to stop."
 
@@ -69,9 +64,7 @@ def main(argv):
 
             # open the service and run the external program
             programFile = plan['services'][service]['program']
-
             print(programFile)
-
             p = run(programFile, stdout=PIPE, input='', encoding='utf-8')
             print(p.returncode)
             print(p.stdout)
