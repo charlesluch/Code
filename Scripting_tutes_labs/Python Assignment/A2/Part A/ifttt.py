@@ -58,7 +58,7 @@ def main(argv):
     for flow in plan['flows']:
         print("\nFlow is:", flow)
         for service in plan['flows'][flow]:
-            print("\tcalling service:", service)
+            print("\tCalling service:", service)
 
             # open the service and run the external program
             pf = plan['services'][service]['program']
@@ -66,7 +66,7 @@ def main(argv):
             p = run(programFile, stdout=PIPE, input='', encoding='utf-8', shell='true')
 
             # handle CompletedProcess
-            print("Service report:\n\treturncode:",p.returncode,"\n\tstdout:",p.stdout,"\n")
+            print("\tService report: returncode:",p.returncode,"\tstdout:",p.stdout,"\n")
 
 
 

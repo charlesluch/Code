@@ -8,9 +8,10 @@ def main():
     now = datetime.datetime.now()
     time = now.strftime(format)
     print(time)
-    return sys.exit(0)
-
+    
 try:
     main()
 except:
     sys.exit(1)
+
+sys.exit(0)
