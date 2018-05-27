@@ -24,16 +24,15 @@
         # we can now call by key as follows:
         print(plan['flows']['Append at morning'])
 
-    # accessing json file instructions...
+    # read the contents of the .json configuration file and let that file dictate the actions of the program.
     for flow in plan['flows']:
         print("\nFlow is:", flow)
         for service in plan['flows'][flow]:
             print("\tcalling service:", service)
-            params = plan['services'][service]
 
             # open the service and run the external program
-            command = [params]
-            print(command)
-            p = run(command, stdout=PIPE, input='', encoding='utf-8')
+            programFile = plan['services'][service]['program']
+            print(programFile)
+            p = run(programFile, stdout=PIPE, input='', encoding='utf-8', shell='true') # Thanks Amy Dempster, shell='true'
             print(p.returncode)
             print(p.stdout)

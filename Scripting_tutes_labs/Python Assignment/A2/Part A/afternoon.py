@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
 import sys
-import time
+#import time
 
-def main():
+def main(now):
     start = "12:00:00"
     end = "17:59:59"
-    now = time.strptime(str(time.localtime()),'%H:%M:%S')
+    #now = time.strptime(str(time.localtime()),'%H:%M:%S')
 
     if(start >= now >= end):
         return sys.exit(0)
@@ -14,7 +14,7 @@ def main():
         return sys.exit(1)
 
 try:
-  main()
+  main(now)
 except:
   sys.exit(1)
 

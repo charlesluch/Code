@@ -19,6 +19,7 @@ but to save you the reading, just type:
 
 into the command prompt of the computer you have installed Python 3 on :)
 
+Fix: make call run when you submit...
 
 ******************** what to expect from the program ********************
 

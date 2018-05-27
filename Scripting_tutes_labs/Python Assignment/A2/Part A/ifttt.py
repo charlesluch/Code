@@ -8,10 +8,9 @@ import sys
 import re
 import argparse
 import io
-import subprocess
+import os
 from pathlib import Path
 from subprocess import run, PIPE
-
 
 # your program is driven by the json file, which defines what things have to happen.
 # you read the file and see "ah, I have to kick off the action to get the date, then get the output from that, and feed it into the next thing to be run. I'll keep doing that until the workflow is complete, or tells me to stop."
@@ -46,8 +45,7 @@ def main(argv):
     else:
         realConfig = './ifttt.json'
 
-        # contents of the .json file still yet to be verified
-
+    # open the .json configuration file and verify its validity
     with io.open(realConfig, 'r', encoding='utf8') as c:
         try:
             plan = json.load(c)
@@ -63,40 +61,14 @@ def main(argv):
             print("\tcalling service:", service)
 
             # open the service and run the external program
-            programFile = plan['services'][service]['program']
-            print(programFile)
-            p = run(programFile, stdout=PIPE, input='', encoding='utf-8')
-            print(p.returncode)
-            print(p.stdout)
+            pf = plan['services'][service]['program']
+            programFile = os.path.abspath(pf)
+            p = run(programFile, stdout=PIPE, input='', encoding='utf-8', shell='true')
+
+            # handle CompletedProcess
+            print("Service report:\n\treturncode:",p.returncode,"\n\tstdout:",p.stdout,"\n")
 
 
-
-    #with open(realConfig) as c:
-    #    plan = json.loads(c)
-
-    #print(plan)
-
-
-        # PROCESSING OUTPUT FILE
-
-        # the output file is created and may not exist before the program has to run,
-
-            #if there is output and the file is not detected, first make sure the file is created, then go on to write to it,
-
-            #if not, then create it before you write.
-
-    # check json for the headers as specified in the json file
-
-
-	# Get the API key
-
-	# It can be stored in the configuration file (recommended option for this program)
-	# You would then read it from the command line arguments
-
-
-	# I've placed it in a file because I don't want you to see it!
-#    with open(".env") as file:
-#    	apiKey = file.readline().strip()
 
 
 if __name__ == "__main__":

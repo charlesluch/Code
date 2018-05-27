@@ -95,6 +95,12 @@
    "description":"saves files in the output file parsed in"
 },
 
+"time":{
+ "name":"Time",
+"program":"./time.py",
+"description":"returns the time"
+},
+
 "wait":{
     "name":"Wait",
     "program":"./wait.py",
@@ -105,18 +111,21 @@
    "flows":{
 
       "Append at morning":[
+         "time",
          "morning",
          "quit if false",
          "append to file"
      ],
 
      "Append at afternoon":[
+        "time",
         "afternoon",
         "quit if false",
         "append to file"
     ],
 
       "Append at evening":[
+         "time",
          "evening",
          "quit if false",
          "append to file"
