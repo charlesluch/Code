@@ -55,6 +55,8 @@ def main(argv):
             return sys.exit(1)
 
     # read the contents of the .json configuration file and let that file dictate the actions of the program.
+    input = ''
+
     for flow in plan['flows']:
         print("\nFlow is:", flow)
         for service in plan['flows'][flow]:
@@ -63,11 +65,11 @@ def main(argv):
             # open the service and run the external program
             pf = plan['services'][service]['program']
             programFile = os.path.abspath(pf)
-            p = run(programFile, stdout=PIPE, input='', encoding='utf-8', shell='true')
+            p = run(programFile, stdout=PIPE, input=input, encoding='utf-8', shell='true')
 
             # handle CompletedProcess
-            print("\tService report: returncode:",p.returncode,"\tstdout:",p.stdout,"\n")
-
+            print("\tService report: returncode:",p.returncode,"\tstdout:",p.stdout)
+            input = str(PIPE)
 
 
 

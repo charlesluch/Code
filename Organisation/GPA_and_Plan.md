@@ -51,6 +51,11 @@ revise based on new plan to complete last level 3 Swinburne and 2 level 1 RMIT s
 
 *to stay above a credit average I have to score within 2 points of my projection.*: I can pass INF30003 and CPT251 for instance, but I must maintain Ds in CPT230, CPT111, and score at least a D in my current INF30027.
 
+##### Split by university and subject matter - Systems v Development
+
+RMIT GPA
+SWIN GPA
+
 ---
 
 #### Avenues for further Professional Development post-degree
