@@ -10,45 +10,44 @@ On this page you organise and improve your efforts day-by-day.
 | -------- |:-------------------------- |
 | ??/05/18 | Call Susie, Aunt Susan, Sean, Alex, Jack and Clare |
 | 27/05/18 | Ax 2 due |
-| 28/05/18 | ABS GP, Prep for and complete DXC Ax,  |
+| 28/05/18 | ABS GP, Prep for and complete DXC Ax |
 | 29/05/18 | 13:30 Scripting Exam |
 | 30/05/18 | Final presentation 7:30pm |
 | 31/05/18 | 11:30am Client training session, 7:30 last team meet BISIP |
 | 01/06/18 | Flight Centre |
 | 01/06/18 | Field QL interview |
 |  6/06/18 | joint gets $200 a fn from now on for Medibank |
-| 18/06/18 | Census Date SP2 |
-| 17/09/18 | Census Date SP3 |
+| 18/06/18 | Census Date SP2 - security |
+| 17/09/18 | Census Date SP3 - unix |
 
 ---
 
-##### today
+##### today/soon
 
-* remaining tasks:
-    1. BISIP - presentation, final report and lesson plan
-    1. SLP - after A2, massive study cram based on exercises
-    1. ABS, DXC
-
-*
+* just focus on ABS and DXC before 11:30
+* exam morning: index of fn.s, syntax, etc... based on lectures.
+* BISIP finished Thurs
 
 ---
 
 ##### Ongoing
 
-* *BISIP*:
-    * Trello updates regularly integrated into PO
-    * hours of professional contributions into the peer doc,
-    * journal sorted: minutes, personal issues professionally represented, more of a project focus.
-* *Scripting*:
-    * Do the assignments well, study as you go.
+* *ML & LA*:
+    * do it
+* *Building IT systems*:
+    * do it
+* *Python, PHP, C, Java*:
+    * write a study plan and enrol in the necessary courses to demonstrate that you don't let setbacks get you down.
+    * Projects, courses, learning criteria, feedback
 * *Job applications*:
     * Stick to deadlines
 * *Housework*:
-    * **G**: Define and run a whole house clean next weekend
-    * **G**: Run next week's meal plan
+    * **G**: Define and run whole house cleans
+    * **G**: Run meal plans
 * *Work*:
-    * Do it, arrive on time
+    * Do it, arrive on time (1.25h alarm listened to)
 * *Exercise*:
+    * all BRC events at the least
     * `(2*floor) + (3*run)` or equivalent (swim, bike)
 
 ---
@@ -80,6 +79,18 @@ On this page you organise and improve your efforts day-by-day.
 
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+* *BISIP*:
+    * Trello updates regularly integrated into PO
+    * hours of professional contributions into the peer doc,
+    * journal sorted: minutes, personal issues professionally represented, more of a project focus.
+* *Scripting*:
+    * Do the assignments well, study as you go.
+
+* remaining tasks:
+    1. BISIP - presentation, final report and lesson plan
+    1. SLP - after A2, massive study cram based on exercises
+    1. ABS, DXC
 
 * tasks in order of priority:
     1. assignment 2 SLP

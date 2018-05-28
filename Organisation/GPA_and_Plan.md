@@ -53,8 +53,8 @@ revise based on new plan to complete last level 3 Swinburne and 2 level 1 RMIT s
 
 ##### Split by university and subject matter - Systems v Development
 
-RMIT GPA
-SWIN GPA
+RMIT `GPA4 = 4+4+1+0(=9)/(4) = 2.25`
+SWIN `GPA4 = 2+1+1+2+2+3+2+1+1+2+2+3+2(=25)/(13) = 1.92`
 
 ---
 
