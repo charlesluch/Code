@@ -8,9 +8,9 @@ import sys
 import re
 import argparse
 import io
-import os
 from pathlib import Path
 from subprocess import run, PIPE
+import subprocess
 
 # your program is driven by the json file, which defines what things have to happen.
 # you read the file and see "ah, I have to kick off the action to get the date, then get the output from that, and feed it into the next thing to be run. I'll keep doing that until the workflow is complete, or tells me to stop."
@@ -54,24 +54,27 @@ def main(argv):
             print("\nError: there is a problem with your JSON config file:\n",err.msg,"on Line:", err.lineno, "of", str(realConfig))
             return sys.exit(1)
 
-    # read the contents of the .json configuration file and let that file dictate the actions of the program.
-    input = ''
+    # read the contents of the .json configuration file and enter program, parameters and configuration into the command line of the next subprocess
 
     for flow in plan['flows']:
         print("\nFlow is:", flow)
         for service in plan['flows'][flow]:
-            print("\tCalling service:", service)
 
-            # open the service and run the external program
-            pf = plan['services'][service]['program']
-            programFile = os.path.abspath(pf)
-            p = run(programFile, stdout=PIPE, input=input, encoding='utf-8', shell='true')
+            programFile = "\"" + plan['services'][service]['program'] + "\""
+            params = " ".join(plan['services'][service]['parameters'])
+            cmd = programFile + params
+            KVpairs = plan['services'][service]['configuration']
+            for key,val in KVpairs.items():
+                if(len(key) > 0):
+                    flag = "--"+key
+                    cmd += " " + flag + "=" + "\"" + val + "\""
+
+            print("Service is:",plan['services'][service]['name'],"\nCommands:",cmd)
+
+            p = run(cmd, stdout=PIPE, input='', encoding='utf-8', shell='true')
 
             # handle CompletedProcess
-            print("\tService report: returncode:",p.returncode,"\tstdout:",p.stdout)
-            input = str(PIPE)
-
-
+            print("Result: returncode:",p.returncode,"\tstdout:",p.stdout)
 
 if __name__ == "__main__":
     main(sys.argv[1:])

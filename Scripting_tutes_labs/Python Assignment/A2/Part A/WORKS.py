@@ -36,3 +36,23 @@
             p = run(programFile, stdout=PIPE, input='', encoding='utf-8', shell='true') # Thanks Amy Dempster, shell='true'
             print(p.returncode)
             print(p.stdout)
+
+# print statements for testing
+
+
+# Morning
+
+#    print(arg.start,start)
+
+#    if not args.start:
+#        start = "00:00:00"
+#    else:
+#        start = args.start
+#
+#    if not args.end:
+#        end = "11:59:59"
+#    else:
+#        end = args.end
+#
+#    now = sys.stdin.read()
+#

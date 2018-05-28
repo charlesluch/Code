@@ -3,7 +3,10 @@
 import sys
 
 def main():
-    if(stdin==0):
+
+    RC = 0
+
+    if(RC == 0):
         return sys.exit(1)
     else:
         return sys.exit(0)

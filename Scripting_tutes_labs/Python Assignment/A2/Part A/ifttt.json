@@ -1,40 +1,37 @@
 {
    "services":{
 
-       "location":{
-           "name":"Location",
-           "program":"./location.py",
-           "description":"Returns the location of the user's internet provider",
-           "output":{
-               "type":"float"
-           }
-       },
-
        "morning":{
            "name":"Morning",
            "program":"./morning.py",
            "description":"Returns true when the current local time is between 12am and 6am",
-           "output":{
-               "type":"boolean"
-           }
+           "configuration":{
+               "start":"00:00:00",
+               "end":"11:59:59"
+           },
+           "parameters":[""]
         },
 
        "afternoon":{
            "name":"Afternoon",
            "program":"./afternoon.py",
            "description":"Returns true when the input time is between 12pm and 6pm",
-           "output":{
-               "type":"boolean"
-           }
+           "configuration":{
+               "start":"12:00:00",
+               "end":"17:59:59"
+           },
+           "parameters":[""]
         },
 
        "evening":{
           "name":"Evening",
           "program":"./evening.py",
           "description":"Returns true when the input time is between 6pm and 12am",
-          "output":{
-              "type":"boolean"
-              }
+          "configuration":{
+              "start":"18:00:00",
+              "end":"23:59:59"
+          },
+          "parameters":[""]
        },
 
        "quit if false":{
@@ -44,19 +41,27 @@
            "description":"Triggers an exit of the main script if the prior service in the flow returns sys.exit(1)",
            "input":{
                "type":"boolean"
-           }
+           },
+           "configuration":{
+               "":""
+           },
+           "parameters":[""]
        },
 
        "not":{
            "name":"Not",
            "program":"./not.py",
-           "description":"Changes the sys.exit() error code from 0 to 1 or vice versa",
+           "description":"Changes the code returned from sys.exit() from 0 to 1 or vice versa",
            "input":{
                "type":"boolean"
            },
            "output":{
                "type":"boolean"
-           }
+           },
+           "configuration":{
+               "":""
+           },
+           "parameters":[""]
       },
 
       "sunrise":{
@@ -64,11 +69,16 @@
           "program":"./sunrise.py",
           "description":"Returns the time for sunrise based on a given latitude and longitude",
           "input":{
-              "type":"float"
+              "latitude":"float",
+              "longitude":"float"
           },
           "output":{
               "type":"time"
-          }
+          },
+          "configuration":{
+              "":""
+          },
+          "parameters":[""]
        },
 
       "sunset":{
@@ -76,36 +86,45 @@
           "program":"./sunset.py",
           "description":"Returns the time for sunset based on a given latitude and longitude",
           "input":{
-              "type":"float"
+              "latitude":"float",
+              "longitude":"float"
           },
           "output":{
               "type":"time"
-          }
+          },
+          "configuration":{
+              "":""
+          },
+          "parameters":[""]
 
       },
 
-   "echo":{
-      "program":"echo",
-      "parameters":"{{$input}}"
-   },
+      "append to file":{
+          "name":"Append to file",
+          "program":"./append.py",
+          "description":"saves files in the output file parsed in",
+          "input":{
+              "filename":""
+          },
+          "configuration":{
+              "":""
+          },
+          "parameters":[""]
+      },
 
-   "append to file":{
-    "name":"Append to file",
-   "program":"./append.py",
-   "description":"saves files in the output file parsed in"
-},
+      "time":{
+         "name":"Time",
+         "program":"./time.py",
+         "description":"returns the time",
+         "output":{
+            "type":"time"
+        },
+        "configuration":{
+            "":""
+        },
+        "parameters":[""]
+    }
 
-"time":{
- "name":"Time",
-"program":"./time.py",
-"description":"returns the time"
-},
-
-"wait":{
-    "name":"Wait",
-    "program":"./wait.py",
-    "description":"wait will only return true after a set amount of time has passed since its last call"
-}
 },
 
    "flows":{
@@ -132,14 +151,12 @@
      ],
 
      "Append sunset time":[
-        "location",
         "sunset",
         "quit if false",
         "append to file"
     ],
 
     "Append sunrise time":[
-       "location",
        "sunrise",
        "quit if false",
        "append to file"

@@ -1,3 +1,5 @@
+
+# out of scope
 import requests
 import datetime
 
@@ -15,3 +17,7 @@ print(response)
 # returned: None None None 2018-05-27 10:02:09.815786 None
 # we have a problem accessing data...
 # nb: datetime had no tz but got local time.
+
+# Call Process Error Checking...
+cpe = subprocess.CompletedProcess.check_returncode()
+print("CP Error Report:",cpe.cmd,"\toutput:",cpe.output)

@@ -8,7 +8,8 @@ def main():
     response = requests.get('https://ipapi.co/json')
     latitude = response.headers.get('latitude')
     longitude = response.headers.get('longitude')
-    return latitude, longitude
+    tz = response.headers.get('utc_offset')
+    print(latitude, longitude)
 
 try:
   main()

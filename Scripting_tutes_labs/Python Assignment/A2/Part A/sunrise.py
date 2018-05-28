@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
 
 import sys
-import time
 import requests
 
-def main(latitude, longitude):
-    timezone = time.strptime(str(time.localtime()),'%z')
-    RiseSetURL = "api.sunrise-sunset.org/json?lat=" + latitude + "&lng=" + longitude
+def main():
+
+    # get IP location from IP API - https://ipapi.co/
+    response = requests.get('https://ipapi.co/json')
+    latitude = response.headers.get('latitude')
+    longitude = response.headers.get('longitude')
+
+    # and get rise and set data about the location proviced thanks to https://api.sunrise-sunset.org
+    RiseSetURL = "api.sunrise-sunset.org/json?lat=" + str(latitude) + "&lng=" + str(longitude)
     response = requests.get('https://' + RiseSetURL)
     sunrise = response.headers.get('sunrise')
-    return sunrise
+    print(sunrise)
 
 try:
   main()

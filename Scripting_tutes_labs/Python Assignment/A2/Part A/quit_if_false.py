@@ -5,8 +5,11 @@ import sys
 
 def main():
 
-    if(stdin == 1):
-        return os.kill()
+# find a way to get the return code from the last process
+    RC = 0
+
+    if(RC == 1):
+        return os.kill(main,SIGQUIT)
     else:
         return sys.exit(0)
 
