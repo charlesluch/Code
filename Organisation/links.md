@@ -8,10 +8,7 @@ Your repository of useful and active links
 
 ##### Apply
 
-1. DXC tests
-1. [ABS GP](https://gradaustralia.com.au/abs-2019-graduate-development-program) by May 27
-1. [ACMA](https://gradaustralia.com.au/acma-graduate-program) by 31
-1. [Flight Center GP](https://au.gradconnection.com/employers/flight-centre-travel-group/jobs/flight-centre-travel-group-graduate-program-retail-leadership-brisbane-2/) by June 1 with an aim to fit a  [UX/UI](http://careers.fctgcareers.com/cw/en/job/497976/uxui-designer-brisbane) role  
+
 1. [AEMO](https://gradaustralia.com.au/aemo-2019-graduate-development-program) opens 21 May - 6 July
 1. [Schneidler Electric](https://gradaustralia.com.au/schneider-electric-2019-graduate-program-software-engineering-graduate) by June 3
 1. [Airbus](https://gradaustralia.com.au/airbus-australia-pacific-engineering-graduate-program-2019) by June 24
@@ -22,6 +19,36 @@ Your repository of useful and active links
 ###### Awaiting next steps and feedback
 
 1. [QLD Government roles](https://www.qld.gov.au/jobs/finding/graduates/opportunities/recent-graduates) Health first by May 2
+1. DXC
+1. [ABS GP](https://gradaustralia.com.au/abs-2019-graduate-development-program) by May 27
+
+---
+
+##### courses and resources
+
+EVERYTHING: [your RMIT Lynda account](https://www.lynda.com/)
+
+C programming:
+
+* [Into to C Spec](https://www.coursera.org/specializations/c-programming)
+* [CS50's intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+* [MIT OCW Practical programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
+
+C++:
+
+* [Cambridge uni's course material](http://www-h.eng.cam.ac.uk/help/tpl/languages/C%2B%2B.html)
+
+Java:
+
+* [Java intro spec](https://www.coursera.org/specializations/java-programming)
+
+ML, Racket, Ruby:
+
+* [UW's course](https://www.coursera.org/learn/programming-languages)
+
+Unix | Linux:
+
+* [Matloff](http://heather.cs.ucdavis.edu/~matloff/unix.html)
 
 ---
 

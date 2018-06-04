@@ -8,25 +8,54 @@ On this page you organise and improve your efforts day-by-day.
 
 | Date     | Description                |
 | -------- |:-------------------------- |
-| ??/05/18 | Call Susie, Aunt Susan, Sean, Alex, Jack and Clare |
-| 27/05/18 | Ax 2 due |
-| 28/05/18 | ABS GP, Prep for and complete DXC Ax |
-| 29/05/18 | 13:30 Scripting Exam |
+| 06-07/18 | Ballina and Sydney |
 | 30/05/18 | Final presentation 7:30pm |
 | 31/05/18 | 11:30am Client training session, 7:30 last team meet BISIP |
 | 01/06/18 | Flight Centre |
-| 01/06/18 | Field QL interview |
+| ??/06/18 | Field QL interview |
 |  6/06/18 | joint gets $200 a fn from now on for Medibank |
+|
 | 18/06/18 | Census Date SP2 - security |
+| 10/08/18 | Sydney/Wagga |
 | 17/09/18 | Census Date SP3 - unix |
 
 ---
 
 ##### today/soon
 
-* just focus on ABS and DXC before 11:30
-* exam morning: index of fn.s, syntax, etc... based on lectures.
-* BISIP finished Thurs
+JUNE TASKS:
+* Plan quick
+* House/Ex/Diet | BIT | PySpec | ML | LA | Work | Programming projects as CVs |
+
+Monday:
+
+* 3:30 - 6:30 work -1hr for your stuff Monday (bill and Uni)
+* on the way home, Aldi run
+
+Tuesday:
+
+* water the garden,
+* Run,
+* write a week by week plan for ML, BIT and PySpec.
+* write up requirements for non-uni projects.
+
+Work & Uni:
+
+* Wed 5-6:45
+* Thurs 3-6 -1hr  BIT every Thurs @ 7pm
+* Smash the PySpec, ML and LA
+* move on to looking over your past exams and dev projects, writing new projects,
+*
+
+---
+
+##### PROJECT MANAGE
+
+Step 1: timesheet, maintain this doc, B in phone,
+
+* Approach consistency: plan matches execution
+
+`--> record billables     reconcile     make detailed schedules <--`
 
 ---
 
@@ -38,7 +67,7 @@ On this page you organise and improve your efforts day-by-day.
     * do it
 * *Python, PHP, C, Java*:
     * write a study plan and enrol in the necessary courses to demonstrate that you don't let setbacks get you down.
-    * Projects, courses, learning criteria, feedback
+    * Projects, courses, learning criteria, feedback from tutors.
 * *Job applications*:
     * Stick to deadlines
 * *Housework*:
@@ -56,9 +85,15 @@ On this page you organise and improve your efforts day-by-day.
 
 * **Everyday** you *manage* and *set goals*
 * Replace timewasting with a checklist and review:
-    * If success, then reward.
+    * If success, great!
     * If fail,    then improve.
-* capitalize on small windows of free time to get shit done calmly with clear intent and clear, positive, 1:1 communications with your team and clients.
+* capitalize on small windows of free time to get shit done calmly with clear intent and clear, positive, 1:1 communications with your teams and clients.
+
+---
+
+##### Project Brainstorm
+
+*
 
 ---
 
@@ -79,6 +114,9 @@ On this page you organise and improve your efforts day-by-day.
 
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+* WEDNESDAY 30 MAY TASKS: BISIP finished (macro requirements, capability matrix, intro, conclusion, overview, appendix design specs) THEN refine speech and notes THEN training handout THEN journal
+* THURSDAY 1 JUNE TASKS: (possible overflow), Flight Centre, clean house, pack (no laptop)
 
 * *BISIP*:
     * Trello updates regularly integrated into PO
