@@ -8,9 +8,7 @@ Your repository of useful and active links
 
 ##### Apply
 
-
 1. [AEMO](https://gradaustralia.com.au/aemo-2019-graduate-development-program) opens 21 May - 6 July
-1. [Schneidler Electric](https://gradaustralia.com.au/schneider-electric-2019-graduate-program-software-engineering-graduate) by June 3
 1. [Airbus](https://gradaustralia.com.au/airbus-australia-pacific-engineering-graduate-program-2019) by June 24
 1. [Optus](https://gradaustralia.com.au/optus-2019-graduate-program) by June 30
 
@@ -24,23 +22,60 @@ Your repository of useful and active links
 
 ---
 
-##### courses and resources
+#### courses and resources
 
-EVERYTHING: [your RMIT Lynda account](https://www.lynda.com/)
+##### learning plan
+
+1. PySpec
+1. C, C++, C#, Objective C courses for rapid development
+1. ML & LA
+
+##### as organized by language
+
+EVERYTHING:
+
+* [your RMIT Lynda account](https://www.lynda.com/)
+* [soloLearn](https://www.sololearn.com/Courses/)
+
+C & C++:
+
+* [C and C++: ultimate list](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
+* [what C & C++ is used for](https://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming)
+* [how the C++ compiler works](https://www.toptal.com/c-plus-plus/c-plus-plus-understanding-compilation)
+* [top mistakes C++ developers make](https://www.toptal.com/c-plus-plus/top-10-common-c-plus-plus-developer-mistakes)
+* [Cambridge uni's course material](http://www-h.eng.cam.ac.uk/help/tpl/languages/C%2B%2B.html)
+* [Drawing curves in C++ without having to preload](https://www.toptal.com/c-plus-plus/rounded-corners-bezier-curves-qpainter)
 
 C programming:
 
 * [Into to C Spec](https://www.coursera.org/specializations/c-programming)
 * [CS50's intro to CS](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 * [MIT OCW Practical programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
+* [Udemy C programming for beginners](https://www.udemy.com/c-programming-for-beginners/)
 
 C++:
 
-* [Cambridge uni's course material](http://www-h.eng.cam.ac.uk/help/tpl/languages/C%2B%2B.html)
+* [Convert C to C++](https://www.coursera.org/learn/c-plus-plus-a)
+
+C#:
+
+* [Microsoft's C# edX course](https://www.edx.org/course/programming-c-microsoft-dev204x-3)
+* For fun - [C# and unity games](https://www.coursera.org/specializations/programming-unity-game-development)
 
 Java:
 
 * [Java intro spec](https://www.coursera.org/specializations/java-programming)
+* [OO Java](https://www.coursera.org/specializations/java-object-oriented)
+
+IoT:
+
+* [Rasberry Pi and Arduino](https://www.coursera.org/specializations/iot)
+
+ML & AI:
+
+* IBM's ML with SQL
+* deeplearning.ai
+* [advanced machine learning](https://www.coursera.org/specializations/aml)
 
 ML, Racket, Ruby:
 
@@ -49,6 +84,10 @@ ML, Racket, Ruby:
 Unix | Linux:
 
 * [Matloff](http://heather.cs.ucdavis.edu/~matloff/unix.html)
+
+Python
+
+* [Udemy's complete course](https://www.udemy.com/complete-python-bootcamp/?gclid=CjwKCAjw6djYBRB8EiwAoAF6oSduTJeH4y1Tzu8tfh-Jjo1TJN9rAUFtUwv_xeETmll0uxb7HiFS-xoCw10QAvD_BwE&utm_medium=udemyads&utm_source=youtube&utm_content=Overlay&utm_campaign=NEW-YT-PROS-SQA-TECH-Python-EN-ENG_._ci_567828_._sl_ENG_._vi_TECH_._vc_3_._sd_All_._la_EN_._&utm_term=_._ag_45869647637_._ad_255202009628_._de_c_._dm__._pl_youtube.com_._ti__._li_9071869_._pd__._)
 
 ---
 
@@ -85,6 +124,14 @@ Unix | Linux:
 * Documentation for [built-in functions](https://docs.python.org/2/library/functions.html#type)
 * this guy's [tutorials](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) on Python
 
+---
+
+##### IDEs
+
+the Cs
+
+* [codelite](https://codelite.org/)
+* [MinGW - the minimalist GNU for windows](http://www.mingw.org/)
 ---
 
 ##### Books

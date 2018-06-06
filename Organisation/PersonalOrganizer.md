@@ -9,14 +9,16 @@ On this page you organise and improve your efforts day-by-day.
 | Date     | Description                |
 | -------- |:-------------------------- |
 | 06-07/18 | Ballina and Sydney |
-| 30/05/18 | Final presentation 7:30pm |
-| 31/05/18 | 11:30am Client training session, 7:30 last team meet BISIP |
-| 01/06/18 | Flight Centre |
-| ??/06/18 | Field QL interview |
-|  6/06/18 | joint gets $200 a fn from now on for Medibank |
-|
+| 07/06/18 | Thursday 11:30 Field QL interview |
 | 18/06/18 | Census Date SP2 - security |
+| 20/06/18 | joint gets $200 a fn for Medibank |
+| 24/06/18 | BITS: Project Plan (5%) - Ideation |
+| 15/07/18 | BITS: Peer Feedback (5%) |
+| 22/07/18 | BITS: Develop (15%) |
 | 10/08/18 | Sydney/Wagga |
+| 12/08/18 | BITS: Peer Feedback (5%) |
+| 19/08/18 | BITS: A3 part 1 (30%) |
+| 26/08/18 | BITS: A3 part 2 (10%) |
 | 17/09/18 | Census Date SP3 - unix |
 
 ---
@@ -24,24 +26,35 @@ On this page you organise and improve your efforts day-by-day.
 ##### today/soon
 
 JUNE TASKS:
-* Plan quick
-* House/Ex/Diet | BIT | PySpec | ML | LA | Work | Programming projects as CVs |
 
-Monday:
+* Work to reality
+*
+* BITS requires C, C++, C#, Java
+* PySpec, ML & LA for PD (2nd priority)
+* Develop programs to act as your Dev CV
 
-* 3:30 - 6:30 work -1hr for your stuff Monday (bill and Uni)
-* on the way home, Aldi run
+Tuesday 5/6:
 
-Tuesday:
+* ~~water the garden~~,
+* ~~Run~~,
+* get a group.
 
-* water the garden,
-* Run,
-* write a week by week plan for ML, BIT and PySpec.
-* write up requirements for non-uni projects.
+Wednesday 6/6:
+
+* AEMO application
+* prep for the interview
+* check job application deadlines
+* Beta tasks considered
+* Pull all available course material from your Security subject
+* Fill in the group's registration form for BITS,
+* go through all BITS, PySpec, LA and then ML content for the week,
+* prep a learning plan:
+    1. for programming Mobile Apps,
+    2. to program in Java, C, C++, C# or Objective C.
+* Work 5-6:45
 
 Work & Uni:
 
-* Wed 5-6:45
 * Thurs 3-6 -1hr  BIT every Thurs @ 7pm
 * Smash the PySpec, ML and LA
 * move on to looking over your past exams and dev projects, writing new projects,
@@ -51,11 +64,13 @@ Work & Uni:
 
 ##### PROJECT MANAGE
 
-Step 1: timesheet, maintain this doc, B in phone,
-
-* Approach consistency: plan matches execution
-
+Steps:
+1. PERSONAL MANAGEMENT: timesheet, maintain this doc, B in phone,
+    * Approach consistency: plan matches execution
 `--> record billables     reconcile     make detailed schedules <--`
+
+2. WORK TO REALITY: bound by 24/7, only real work with people and projects, learn to manage both.
+    * collaboration, languages, habits of dress, attitude (observables)
 
 ---
 
@@ -114,6 +129,11 @@ Step 1: timesheet, maintain this doc, B in phone,
 
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+Monday 5/6:
+
+* 3:30 - 6:30 work -1hr for your stuff Monday (bill and Uni)
+* on the way home, Aldi run
 
 * WEDNESDAY 30 MAY TASKS: BISIP finished (macro requirements, capability matrix, intro, conclusion, overview, appendix design specs) THEN refine speech and notes THEN training handout THEN journal
 * THURSDAY 1 JUNE TASKS: (possible overflow), Flight Centre, clean house, pack (no laptop)
