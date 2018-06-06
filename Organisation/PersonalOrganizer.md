@@ -28,7 +28,8 @@ On this page you organise and improve your efforts day-by-day.
 JUNE TASKS:
 
 * Work to reality
-*
+    1. collaborate on projects with people (observables & PM)
+    2. technical skills
 * BITS requires C, C++, C#, Java
 * PySpec, ML & LA for PD (2nd priority)
 * Develop programs to act as your Dev CV
