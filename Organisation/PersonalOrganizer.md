@@ -10,6 +10,7 @@ On this page you organise and improve your efforts day-by-day.
 | -------- |:-------------------------- |
 | 06-07/18 | Ballina and Sydney |
 | 07/06/18 | Thursday 11:30 Field QL interview |
+| 10/06/18 | ANSTO Grad program |
 | 18/06/18 | Census Date SP2 - security |
 | 20/06/18 | joint gets $200 a fn for Medibank |
 | 24/06/18 | BITS: Project Plan (5%) - Ideation |
@@ -34,25 +35,22 @@ JUNE TASKS:
 * PySpec, ML & LA for PD (2nd priority)
 * Develop programs to act as your Dev CV
 
-Tuesday 5/6:
+Thursday 7/6
 
-* ~~water the garden~~,
-* ~~Run~~,
-* get a group.
+* get BITS A1,A2,A3 on Trello,
+* 11:30am interview for Field QL,
+* Pull all available course material from your Security subject,
+* go through all BITS, PySpec, C, LA and then ML content for the week,
+* Work 3-6,
+* 7pm BITS
 
-Wednesday 6/6:
+weekend
 
-* AEMO application
-* prep for the interview
-* check job application deadlines
+* Clean for S&L
 * Beta tasks considered
-* Pull all available course material from your Security subject
-* Fill in the group's registration form for BITS,
-* go through all BITS, PySpec, LA and then ML content for the week,
-* prep a learning plan:
-    1. for programming Mobile Apps,
-    2. to program in Java, C, C++, C# or Objective C.
-* Work 5-6:45
+* Week overflow
+* Ballina trip?
+* Wedding
 
 Work & Uni:
 
@@ -130,6 +128,22 @@ Steps:
 
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+Wednesday 6/6:
+
+* ~~AEMO application~~
+* ~~prep for the interview~~
+* ~~check job application deadlines~~
+* ~~Fill in the group's registration form for BITS,~~
+* ~~prep a learning plan:~~
+    1. ~~for programming Mobile Apps,~~
+    2. ~~to program in Java, C, C++, C# or Objective C.~~
+
+Tuesday 5/6:
+
+* ~~water the garden~~,
+* ~~Run~~,
+* get a group.
 
 Monday 5/6:
 
