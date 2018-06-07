@@ -19,7 +19,8 @@ Your repository of useful and active links
 
 1. [QLD Government roles](https://www.qld.gov.au/jobs/finding/graduates/opportunities/recent-graduates) Health first by May 2
 1. DXC
-1. [ABS GP](https://gradaustralia.com.au/abs-2019-graduate-development-program) by May 27
+1. [ABS GP](https://gradaustralia.com.au/abs-2019-graduate-development-program)
+1. AEMO
 
 ---
 
@@ -27,7 +28,7 @@ Your repository of useful and active links
 
 ##### learning plan
 
-1. PySpec
+1. PySpec in
 1. C, C++, C#, Objective C courses for rapid development
 1. ML & LA
 
@@ -46,6 +47,10 @@ C & C++:
 * [top mistakes C++ developers make](https://www.toptal.com/c-plus-plus/top-10-common-c-plus-plus-developer-mistakes)
 * [Cambridge uni's course material](http://www-h.eng.cam.ac.uk/help/tpl/languages/C%2B%2B.html)
 * [Drawing curves in C++ without having to preload](https://www.toptal.com/c-plus-plus/rounded-corners-bezier-curves-qpainter)
+
+Web Dev:
+
+* [PHP access of databases, JQuery, JSON and JavaScript](https://www.coursera.org/specializations/web-applications)
 
 C programming:
 

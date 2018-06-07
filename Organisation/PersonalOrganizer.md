@@ -34,6 +34,13 @@ JUNE TASKS:
 * BITS requires C, C++, C#, Java
 * PySpec, ML & LA for PD (2nd priority)
 * Develop programs to act as your Dev CV
+* JS
+* OO: C++ and Java
+* Rather than getting stopped at the people phase, sort people, then Tech as a PM and a person, but Tech --> People as a technologist (both perspectives are important!)
+* Develop projects autonomously
+* More communication practice: more out in the community delivering concise and clear messages, practice and refer back to your framework, do all the work in your mind: remember names, wake up wit and enthusiasm.
+
+
 
 Thursday 7/6
 
@@ -107,7 +114,9 @@ Steps:
 
 ##### Project Brainstorm
 
-*
+* Yousician for band Books
+* Rasberry Pi sweeper
+* 
 
 ---
 
