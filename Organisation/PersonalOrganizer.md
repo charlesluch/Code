@@ -8,9 +8,6 @@ On this page you organise and improve your efforts day-by-day.
 
 | Date     | Description                |
 | -------- |:-------------------------- |
-| 06-07/18 | Ballina and Sydney |
-| 07/06/18 | Thursday 11:30 Field QL interview |
-| 10/06/18 | ANSTO Grad program |
 | 18/06/18 | Census Date SP2 - security |
 | 20/06/18 | joint gets $200 a fn for Medibank |
 | 24/06/18 | BITS: Project Plan (5%) - Ideation |
@@ -24,47 +21,74 @@ On this page you organise and improve your efforts day-by-day.
 
 ---
 
+##### Adventure time
+
+| Date     | Description                |
+| -------- |:-------------------------- |
+| 30/6-15/07 | QLD School Holidays |
+| 07-22/07 | NSW School Holidays |
+| 14/08/18 | Anna trial |
+| 18-20/08 | Ladies weekend with Sarra |
+| 22/09-07/10 | QLD School Holidays |
+| 29/09-14/10 | NSW School Holidays |
+|  | stuff to go here |
+| 15/12-28/01 | QLD School Holidays |
+| 22/12-28/01 | NSW School Holidays |
+
+---
+
 ##### today/soon
+
+Friday 15/6/18:
+
+Thursday 14/6/18:
+
+Wednesday 13/6/18:
+
+* Final resting place for Pug - call people
+* Brissie to the Bay 17 June - ask Ellie
+* find out the dates Jack is visiting and Alex's travel dates
+* Return Vivosmart 3 to Rebel
+
+* Alpha you must address:
+    * assignment specs gone through, requirements added to minutes and as tasks, deadlines, assign what you can.
+    * Py4e by week's end.
+    * Get security notes onto EHD, pull out all BITS relevant notes.
+    * Write a very clear agenda for next BITS team meeting.
+
+    * Post S&L:
+        * laundry
+        * topper
+        * dishes
+        * tidy
+
+* Wed Work: 4pm-6:45pm
+* Thurs work: 3-5:30pm -1
+
+---
+
+**ENERGY** through **HEALTH**, **PRACTICE** to become a *strong candidate* and *colleague*. **TOP QUALITY EFFORTS, everyday**
+
+---
 
 JUNE TASKS:
 
-* Work to reality
-    1. collaborate on projects with people (observables & PM)
-    2. technical skills
-* BITS requires C, C++, C#, Java
-* PySpec, ML & LA for PD (2nd priority)
-* Develop programs to act as your Dev CV
-* JS
-* OO: C++ and Java
+* Work to reality:
+    * only solo projects are true CVs
+    * only intensely collaborative projects can help you with observables & PM
+
+* so:
+    * BITS requires C, C++, C#, Java
+    * you are doing PySpec & ML currently
+    * you will do:
+        * [Coursera's web dev spec](https://www.coursera.org/specializations/web-applications)
+        * OO: C++ and Java
+
 * Rather than getting stopped at the people phase, sort people, then Tech as a PM and a person, but Tech --> People as a technologist (both perspectives are important!)
-* Develop projects autonomously
+
 * More communication practice: more out in the community delivering concise and clear messages, practice and refer back to your framework, do all the work in your mind: remember names, wake up wit and enthusiasm.
 
-
-
-Thursday 7/6
-
-* get BITS A1,A2,A3 on Trello,
-* 11:30am interview for Field QL,
-* Pull all available course material from your Security subject,
-* go through all BITS, PySpec, C, LA and then ML content for the week,
-* Work 3-6,
-* 7pm BITS
-
-weekend
-
-* Clean for S&L
-* Beta tasks considered
-* Week overflow
-* Ballina trip?
-* Wedding
-
-Work & Uni:
-
-* Thurs 3-6 -1hr  BIT every Thurs @ 7pm
-* Smash the PySpec, ML and LA
-* move on to looking over your past exams and dev projects, writing new projects,
-*
+* never stop learning and practicing!
 
 ---
 
@@ -116,7 +140,7 @@ Steps:
 
 * Yousician for band Books
 * Rasberry Pi sweeper
-* 
+*
 
 ---
 
@@ -137,6 +161,24 @@ Steps:
 
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+
+weekend
+
+* Clean for S&L
+* Beta tasks considered
+* Week overflow
+* Ballina trip?
+* Wedding
+
+Thursday 7/6
+
+* get BITS A1,A2,A3 on Trello,
+* 11:30am interview for Field QL,
+* Pull all available course material from your Security subject,
+* go through all BITS, PySpec, C, LA and then ML content for the week,
+* Work 3-6,
+* 7pm BITS
 
 Wednesday 6/6:
 
@@ -366,5 +408,40 @@ Monday 5/6:
 
 * *Pervasive professionalism*: dress, shower, diet, exercise, work after hours, full, clear & patient communication, pre-deadlines, *approach rewarding habits*, no matter how uncomfortable some of them may seem.
 *
+
+---
+
+##### Python and Perl exam questions to make a personal project
+
+Pl
+Write a program to turn:
+ "cat apple dog     fish"
+Into:
+"cat>apple>dog>fish"
+
+Stooges(print a hash into a formatted table)
+
+Regex 23:59, 6'11",-253,$4 or $3.95
+
+Read a file to get filename, search filename for string, count instances
+
+Py
+
+Def Squares (startx,starty,size)
+Sub drawline (startx,starty,endx,endy)
+From size to a size of 6px or greater
+
+X {1: [1,2,3] 2:[a",b,"c]}
+X [3] = a,b",c
+Print x [1]
+Print X [[1][2]][1]
+
+X [1].append (4)
+Print X [1]
+
+Register (option=1, action= description=)
+three times, make a menu
+
+Make a student result report based on a file containing assessment details and another containing student results table
 
 ---
