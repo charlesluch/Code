@@ -8,6 +8,7 @@ On this page you organize and maintain non-work stuff to make it achievable.
 
 | Date     | Description                |
 | -------- |:-------------------------- |
+| 28/6-01/07 | Sydney |
 | 30/6-15/07 | QLD School Holidays |
 | 07-22/07 | NSW School Holidays |
 | 14/08/18 | Anna trial |
@@ -73,6 +74,46 @@ On this page you organize and maintain non-work stuff to make it achievable.
 ---
 
 ##### To Sort
+
+##### The man with a plan proposal:
+
+* **Take the wheel**: make smart decisions about your career, your life direction, your relationships,
+	* This takes effort - For example, it is your responsibility:
+		* to communicate with Anna about the sale price of her car (communication),
+		* to organize to pull out the Pug Speaker system and sell them (cognitive load and organization),
+		* to say no to chasing bad investments with good money (smart decisions).
+* *Money*:
+		* Your debt to Anna is Anna's
+		* Your smart financial choice is to invest in Brisbane's housing market now and not to lose the advantage of the relationship with Granny's stock brokers
+		* Your smart insurance choice is to make a joint account "fund for a rainy day" that will be contributed to at the tune of $450 a month, any balance over $10k goes to a managed fund
+* *Approach*:
+		* quick plans
+		* one thing at a time only
+		* 15 minutes early is on-time
+		* achieve schedule-billing correlation
+		* pre-deadlines
+		* bum on seat and move fast
+	* *My responsibilities*:
+		* 2 Job applications a day,
+		* All food and housework,
+		* Work like you HD 3 units each week, 40 hours billed,
+			* Only with evidence of 40 hours billed can you even consider negotiating hackathons, PD after hours or seek any extra work time over-and-above meetings with Anna and yourself
+        * spend some time adjusting your attitude
+        	* the dark "It's all my fault/on me to fix" complex leads you only to self-harm and stress, reduces your IQ by 20 points, it's not welcome.
+        	* plan, headspace, set realistic boundaries at home and at work.
+		* *Sunday is plan day*:
+			* *Responsibilities list*: meals | housework | 40 hours of schedule in 7:30-5 * 5 | 14 jobs queued (2nd job and Grad Role) | first 7 words for difficult negotiations in the week.
+		* Find a house to buy in Brisbane with a $60k max deposit from you.
+    * *My commitments*:
+		* Stick the landing wherever you go (full dev. & data analytics skill-set, a consistent full-time worker and communicator),
+		* Brisbane is your home, if you have to leave, minimize your time away,
+		* Become financially self-sufficient sooner than Feburary 5, 2019.
+    * *My dreams*:
+		* build robots and games for your kids, nephews and Addies,
+        * hold your own in a jam session with a great sounding horn (mk6?),
+        * do the same at work with your teams, except your voice and mind are the horn,
+        * feel the benefits of exercising regularly and courteously,
+        * adventure based on your own heart-felt need for it.
 
 ##### Field QL feedback
 

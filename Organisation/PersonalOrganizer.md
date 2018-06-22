@@ -39,31 +39,30 @@ On this page you organise and improve your efforts day-by-day.
 
 ##### today/soon
 
-Friday 15/6/18:
+24/6/18 Plan items:
 
-Thursday 14/6/18:
+* Not regular items:
+    * Parking permits for Treg and Subi
+    * overflow (A1 necessary on the day)
+        * 
+* meals
+* housework
+* 40 hours of schedule in 7:30-5 * 5
+* 14 jobs queued (2nd job and Grad Role)
+* first 7 words for difficult negotiations in the week.
 
-Wednesday 13/6/18:
 
-* Final resting place for Pug - call people
-* Brissie to the Bay 17 June - ask Ellie
-* find out the dates Jack is visiting and Alex's travel dates
-* Return Vivosmart 3 to Rebel
+22/6/18
 
-* Alpha you must address:
-    * assignment specs gone through, requirements added to minutes and as tasks, deadlines, assign what you can.
-    * Py4e by week's end.
-    * Get security notes onto EHD, pull out all BITS relevant notes.
-    * Write a very clear agenda for next BITS team meeting.
-
-    * Post S&L:
-        * laundry
-        * topper
-        * dishes
-        * tidy
-
-* Wed Work: 4pm-6:45pm
-* Thurs work: 3-5:30pm -1
+* go through the assignment specification and create a card for every conceivable task we need to generate a finished product with lines
+* ensure an entire draft exists by the weekend of the project proposal
+* Complete Python for everybody
+* 2 job applications
+* ironing dishes laundry
+* print, sign and return lease extension
+* revise the first 4 weeks of ML
+* headspace
+* @ 3 get ready to get on the road
 
 ---
 
@@ -71,7 +70,7 @@ Wednesday 13/6/18:
 
 ---
 
-JUNE TASKS:
+##### JUNE TASKS:
 
 * Work to reality:
     * only solo projects are true CVs
@@ -89,6 +88,48 @@ JUNE TASKS:
 * More communication practice: more out in the community delivering concise and clear messages, practice and refer back to your framework, do all the work in your mind: remember names, wake up wit and enthusiasm.
 
 * never stop learning and practicing!
+
+---
+
+##### The man with a plan proposal:
+
+* **Take the wheel**: make smart decisions about your career, your life direction, your relationships,
+	* This takes effort - For example, it is your responsibility:
+		* to communicate with Anna about the sale price of her car (communication),
+		* to organize to pull out the Pug Speaker system and sell them (cognitive load and organization),
+		* to say no to chasing bad investments with good money (smart decisions).
+* *Money*:
+		* Your debt to Anna is Anna's
+		* Your smart financial choice is to invest in Brisbane's housing market now and not to lose the advantage of the relationship with Granny's stock brokers
+		* Your smart insurance choice is to make a joint account "fund for a rainy day" that will be contributed to at the tune of $450 a month, any balance over $10k goes to a managed fund
+* *Approach*:
+		* quick plans
+		* one thing at a time only
+		* 15 minutes early is on-time
+		* achieve schedule-billing correlation
+		* pre-deadlines
+		* bum on seat and move fast
+	* *My responsibilities*:
+		* 2 Job applications a day,
+		* All food and housework,
+		* Work like you HD 3 units each week, 40 hours billed,
+			* Only with evidence of 40 hours billed can you even consider negotiating hackathons, PD after hours or seek any extra work time over-and-above meetings with Anna and yourself
+        * spend some time adjusting your attitude
+        	* the dark "It's all my fault/on me to fix" complex leads you only to self-harm and stress, reduces your IQ by 20 points, it's not welcome.
+        	* plan, headspace, set realistic boundaries at home and at work.
+		* *Sunday is plan day*:
+			* *Responsibilities list*: meals | housework | 40 hours of schedule in 7:30-5 * 5 | 14 jobs queued (2nd job and Grad Role) | first 7 words for difficult negotiations in the week.
+		* Find a house to buy in Brisbane with a $60k max deposit from you.
+    * *My commitments*:
+		* Stick the landing wherever you go (full dev. & data analytics skill-set, a consistent full-time worker and communicator),
+		* Brisbane is your home, if you have to leave, minimize your time away,
+		* Become financially self-sufficient sooner than Feburary 5, 2019.
+    * *My dreams*:
+		* build robots and games for your kids, nephews and Addies,
+        * hold your own in a jam session with a great sounding horn (mk6?),
+        * do the same at work with your teams, except your voice and mind are the horn,
+        * feel the benefits of exercising regularly and courteously,
+        * adventure based on your own heart-felt need for it.
 
 ---
 
@@ -162,6 +203,35 @@ Steps:
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
 
+Friday 15/6/18:
+
+Thursday 14/6/18:
+
+
+Wednesday 13/6/18:
+* ~~Write a very clear agenda for next BITS team meeting~~.
+* ~~assignment specs gone through, requirements added to minutes and as tasks, deadlines, assign what you can~~
+* ~~complete your part of BITS A1~~
+
+
+* ~~Final resting place for Pug - call people~~
+* ~~Brissie to the Bay 17 June - ask Ellie~~
+* ~~find out the dates Jack is visiting and Alex's travel dates~~
+* ~~Return Vivosmart 3 to Rebel~~
+
+* Alpha you must address:
+    * develop a few proposals for the BITS project in line with the A1 spec.
+    * Py4e by week's end.
+    * ~~Get security notes onto EHD, pull out all BITS relevant notes.~~
+
+    * Post S&L:
+        * laundry
+        * ~~topper~~
+        * dishes
+        * tidy
+
+* Wed Work: 4pm-6:45pm
+* Thurs work: 3-5:30pm -1
 
 weekend
 
