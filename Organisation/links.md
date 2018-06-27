@@ -17,8 +17,6 @@ Your repository of useful and active links
 ###### Awaiting next steps and feedback
 
 1. [QLD Government roles](https://www.qld.gov.au/jobs/finding/graduates/opportunities/recent-graduates) Health first by May 2
-1. DXC
-1. [ABS GP](https://gradaustralia.com.au/abs-2019-graduate-development-program)
 1. AEMO
 
 ---

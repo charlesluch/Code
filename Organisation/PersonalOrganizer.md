@@ -44,7 +44,7 @@ On this page you organise and improve your efforts day-by-day.
 * Not regular items:
     * Parking permits for Treg and Subi
     * overflow (A1 necessary on the day)
-        * 
+        *
 * meals
 * housework
 * 40 hours of schedule in 7:30-5 * 5
@@ -52,8 +52,8 @@ On this page you organise and improve your efforts day-by-day.
 * first 7 words for difficult negotiations in the week.
 
 
-22/6/18
-
+22/6/18 - 24/6/18
+2:37
 * go through the assignment specification and create a card for every conceivable task we need to generate a finished product with lines
 * ensure an entire draft exists by the weekend of the project proposal
 * Complete Python for everybody
