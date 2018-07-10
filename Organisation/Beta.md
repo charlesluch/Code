@@ -12,12 +12,15 @@ On this page you organize and maintain non-work stuff to make it achievable.
 | 30/6-15/07 | QLD School Holidays |
 | 07-22/07 | NSW School Holidays |
 | 14/08/18 | Anna trial |
-| 18-20/08 | Ladies weekend with Sarra |
+| 18-20/08 | Ladies weekend with Sara |
 | 22/09-07/10 | QLD School Holidays |
 | 29/09-14/10 | NSW School Holidays |
 |  | stuff to go here |
 | 15/12-28/01 | QLD School Holidays |
 | 22/12-28/01 | NSW School Holidays |
+
+* GovHack and other Hacks/conferences
+* Possible holidays - Ellie August Hamilton, Claire Cradle, S&S Vienna December, 
 
 ---
 

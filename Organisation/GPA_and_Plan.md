@@ -12,7 +12,7 @@ Uni was chaotic and you often did not manage well, however, you have found a way
 | SP4 2017	| CPT270 - Web Programming                   | P  |    |
 | SP1 2018  | CPT323 - O-O Programming in C++            | PC |    |
 | SP1 2018  | CPT222 - Software Architecture: D&I        | PC |    |
-| SP1 2018	| CPT223 - Scripting Language Programming    |    |    |
+| SP1 2018	| CPT223 - Scripting Language Programming    | N  |    |
 | SP2 2018  | CPT111 - Building IT Systems               |    | D  |
 | SP2 2018  | CPT251 - Security in Computing and IT      |    | PC |
 | 2018      | Coursera ML                                |    |    |
@@ -38,23 +38,29 @@ Total grade points divided by the total credit points = Grade Point Average.
 ###### Before Accenture
 
 `GPA = (21*12.5) / (9*12.5) = 21/9 = 2.33`
+`7pt = 21 + (9*3) / 9 = (21 + 27) / 9 = 48 / 9 = 5.3`
 
 ###### My current (4 point scale) GPA
 
-`GPA = (33*12.5) / (17*12.5) = 33/17 = 1.94`
+`GPA = (35*12.5) / (19*12.5) = 35/19 = 1.84`
+`7pt = 35 + (19*3) / 19 = (35 + 57) / 19 = 92 / 19 = 4.84`
 
 ###### Projected GPA
 
 revise based on new plan to complete last level 3 Swinburne and 2 level 1 RMIT subjects while I work on my portfolio of projects.
 
-`GPA = (46*12.5) / (22*12.5) = 46/22 = 2.09`
+`GPA = (43*12.5) / (22*12.5) = 43/22 = 1.95`
+`7pt = 43 + (22*3) / 22 = (43 + 66) / 22 = 101 / 22 = 4.95`
 
-*to stay above a credit average I have to score within 2 points of my projection.*: I can pass INF30003 and CPT251 for instance, but I must maintain Ds in CPT230, CPT111, and score at least a D in my current INF30027.
+*to stay above a credit average overall I must D every remaining subject*: credits get me 41/22 or 1.86.
 
 ##### Split by university and subject matter - Systems v Development
 
-RMIT `GPA4 = 4+4+1+0(=9)/(4) = 2.25`
-SWIN `GPA4 = 2+1+1+2+2+3+2+1+1+2+2+3+2(=25)/(13) = 1.92`
+RMIT `GPA4 = 4+4+1+0+0(=9)/(5) = 1.8`
+     `GPA7 = 9 + (3*5) / 5 = (9 + 15) / 5 = 24 / 5 = 4.8`
+     
+SWIN `GPA4 = 2+1+1+2+2+3+2+1+1+2+2+3+2+2(=27)/(14) = 1.92`
+     `GPA7 = 27 + (14*3) / 14 = 27 + 42 / 14 = 69 / 14 = 4.92`
 
 ---
 

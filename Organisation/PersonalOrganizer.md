@@ -8,14 +8,13 @@ On this page you organise and improve your efforts day-by-day.
 
 | Date     | Description                |
 | -------- |:-------------------------- |
-| 18/06/18 | Census Date SP2 - security |
-| 20/06/18 | joint gets $200 a fn for Medibank |
-| 24/06/18 | BITS: Project Plan (5%) - Ideation |
+| 13/07/18 | 10:30am Psych |
 | 15/07/18 | BITS: Peer Feedback (5%) |
-| 22/07/18 | BITS: Develop (15%) |
+| 22/07/18 | BITS: Design Artefacts (15%) |
 | 10/08/18 | Sydney/Wagga |
 | 12/08/18 | BITS: Peer Feedback (5%) |
 | 19/08/18 | BITS: A3 part 1 (30%) |
+| 24/07/18 | joint gets $200 a fn for Medibank |
 | 26/08/18 | BITS: A3 part 2 (10%) |
 | 17/09/18 | Census Date SP3 - unix |
 
@@ -39,32 +38,54 @@ On this page you organise and improve your efforts day-by-day.
 
 ##### today/soon
 
-24/6/18 Plan items:
+29/06/18:
 
-* Not regular items:
-    * Parking permits for Treg and Subi
-    * overflow (A1 necessary on the day)
-        *
-* meals
-* housework
-* 40 hours of schedule in 7:30-5 * 5
-* 14 jobs queued (2nd job and Grad Role)
-* first 7 words for difficult negotiations in the week.
+* ~~Write Java based on Java notes~~
+* MC-Push, KBS, Lunge, (HS), BackBrace, LegExt, SidePlank, Saw
+* ~~Bank cheque and runners~~
+* Trace MVF1 in prep for Sunday
+* organize a later start for the meeting if possible and give the meeting lead duties to Angus...
+* 2 Jobs at least today
+* 3:35pm at Domestic airport
+* At Al's place 4-8 D st Manly at or near 6.
+
+* To Do Offline:
+    * Java course,
+    * Offline cover letter prep for 14 jobs,
+    * LA.
+
+* To Do Online:
+    * MVF 1,
+    * Py4E,
+    * ML,
+    * BITS: decide between NetBeans/Swing, Eclipse/JavaFX or qt jambi.
+
+    While in SYD:
+
+    * Get a list of birthdays and plan around them,
+    * Runners, DFO and Desert Mob,
+    * Sunday plan day.
+
+    Back in BNE:
+
+    * get parking permits with documentation (& sign, copy and return rental contract),
+    * ironing,
+    * garden round 2: pot seedlings and paw paw, spray eggplant.
+    * Catch up on Accenture web presentations.
+
+* BITS next steps:
+    * code quickly and cleanly in Java, commit to MVF 1,
+    * decide between NetBeans/Swing, Eclipse/JavaFX or qt jambi.
+    * intervene with Kailan? plan your first 7 words with care.
+
+* 14 jobs.
+* call M&D, S, organize time for people.
 
 
-22/6/18 - 24/6/18
-2:37
-* go through the assignment specification and create a card for every conceivable task we need to generate a finished product with lines
-* ensure an entire draft exists by the weekend of the project proposal
-* Complete Python for everybody
-* 2 job applications
-* ironing dishes laundry
-* print, sign and return lease extension
-* revise the first 4 weeks of ML
-* headspace
-* @ 3 get ready to get on the road
 
 ---
+
+**move fast!** we *aren't reinventing the wheel*, *nor are we getting snagged on our own apprehension*, get to know how to **get shit done**.
 
 **ENERGY** through **HEALTH**, **PRACTICE** to become a *strong candidate* and *colleague*. **TOP QUALITY EFFORTS, everyday**
 
@@ -109,6 +130,7 @@ On this page you organise and improve your efforts day-by-day.
 		* achieve schedule-billing correlation
 		* pre-deadlines
 		* bum on seat and move fast
+        * underlines for Anna tasks, manage both her priorities and your own.
 	* *My responsibilities*:
 		* 2 Job applications a day,
 		* All food and housework,
@@ -118,7 +140,7 @@ On this page you organise and improve your efforts day-by-day.
         	* the dark "It's all my fault/on me to fix" complex leads you only to self-harm and stress, reduces your IQ by 20 points, it's not welcome.
         	* plan, headspace, set realistic boundaries at home and at work.
 		* *Sunday is plan day*:
-			* *Responsibilities list*: meals | housework | 40 hours of schedule in 7:30-5 * 5 | 14 jobs queued (2nd job and Grad Role) | first 7 words for difficult negotiations in the week.
+			* *Responsibilities list*: ex | meals/food habits | housework | 40 hours of schedule in 7:30-5 * 5 including over half being bum-on-seat study | 14 jobs queued (2nd job and Grad Role) | first 7 words for difficult negotiations in the week.
 		* Find a house to buy in Brisbane with a $60k max deposit from you.
     * *My commitments*:
 		* Stick the landing wherever you go (full dev. & data analytics skill-set, a consistent full-time worker and communicator),
@@ -202,6 +224,31 @@ Steps:
 
 ##### Day review:
 ###### (Done, In Progress, Next up, Obstacles, Deadlines, Improvement)
+
+24/6/18 Plan items:
+
+* Not regular items:
+    * Parking permits for Treg and Subi
+    * overflow (A1 necessary on the day)
+        *
+* meals
+* housework
+* 40 hours of schedule in 7:30-5 * 5
+* 14 jobs queued (2nd job and Grad Role)
+* first 7 words for difficult negotiations in the week.
+
+
+22/6/18 - 24/6/18
+2:37
+* go through the assignment specification and create a card for every conceivable task we need to generate a finished product with lines
+* ensure an entire draft exists by the weekend of the project proposal
+* Complete Python for everybody
+* 2 job applications
+* ironing dishes laundry
+* print, sign and return lease extension
+* revise the first 4 weeks of ML
+* headspace
+* @ 3 get ready to get on the road
 
 Friday 15/6/18:
 
