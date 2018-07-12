@@ -52,64 +52,20 @@ revise based on new plan to complete last level 3 Swinburne and 2 level 1 RMIT s
 `GPA = (43*12.5) / (22*12.5) = 43/22 = 1.95`
 `7pt = 43 + (22*3) / 22 = (43 + 66) / 22 = 101 / 22 = 4.95`
 
-*to stay above a credit average overall I must D every remaining subject*: credits get me 41/22 or 1.86.
+*to stay above a credit average overall I must D every remaining subject*: credits get me 41/22 or 1.86 | Swin: 29/15 = 1.93 | RMIT: 13/7 = 1.85
+
+*setting the fails aside*: 41/20 or 2.05 | Swin: 29/15 = 1.93 | RMIT: 13/5 = 2.6
 
 ##### Split by university and subject matter - Systems v Development
 
-RMIT `GPA4 = 4+4+1+0+0(=9)/(5) = 1.8`
+RMIT `GPA4 = 4+4+0+1+0 (=9)/(5) = 1.8`
      `GPA7 = 9 + (3*5) / 5 = (9 + 15) / 5 = 24 / 5 = 4.8`
 
-SWIN `GPA4 = 2+1+1+2+2+3+2+1+1+2+2+3+2+2(=27)/(14) = 1.92` ??
-     `GPA7 = 27 + (14*3) / 14 = 27 + 42 / 14 = 69 / 14 = 4.92` ??
+SWIN `GPA4 = 2+2+1+1+2+2++1+3+2+1+1+2+2+3+2 (=27)/(14) = 1.92`
+     `GPA7 = 27 + (14*3) / 14 = 27 + 42 / 14 = 69 / 14 = 4.92`
 
 ---
 
-#### Avenues for further Professional Development post-degree
-
-**To Do** - if there is a legitimate business case for learning this stuff, find a Coursera/MIT course and a colleague who works in the area that you can bounce questions off over coffee/lunch.
-
-##### Professional Development Plan
-
-* What:
-    * Coursera (links page)
-    * Existing course notes
-    *
-
----
-
-##### Subject areas from RMIT Bachelor of IT
-
-* CPT111 Building IT Systems						
-    - resources and documentation
-* CPT251 Security in Computing and IT				
-    - anti-hack
-* CPT222 Software Architecture: Design and Implementation
-    - OO stuff you don't know... Net-Centric Computing first (get credit)
-* CPT230 Software Engineering Fundamentals			
-    - design software
-* CPT330 Software Engineering Project Management						
-    - prereq. SEF, project management
-* CPT373 Web Development Technologies										
-* CPT375 Web Database Applications
-	- Advanced PHP functionality such as interacting with a DBMS
-* Document Markup Languages (COSC2104/2106)									
-    - XML, XSLT and related technologies
-* Net-Centric Computing (COSC1111/2061)		
-    - OSI 7 layers, TCP/IP, ...
-
----
-
-##### Subject areas from UniSA's Bachelor of IT and Data Analytics	(10-15hrs/unit/wk)
-
-* INFS1024 Systems Analysis								
-* INFT1025 Interface Design, Interaction and Experience
-* INFS2039 Big Data Analytics								
-* INFS2040 Systems Design									
-* COMP2033 Data Structures								
-* INFT2065 Web Development								
-* MATH2032 Statistics Using R								
-* INFS3079 Busisness Analytics							
-* INFS3081 Predictive Analytics							
-* INFS3080 Data Visualisation
+**You will do better.** *See PD Plan*
 
 ---

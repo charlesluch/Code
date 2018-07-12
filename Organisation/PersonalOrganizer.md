@@ -9,13 +9,15 @@ On this page you organise and improve your efforts day-by-day.
 | Date     | Description                |
 | -------- |:-------------------------- |
 | 13/07/18 | 10:30am Psych |
-| 15/07/18 | BITS: Peer Feedback (5%) |
+
 | 22/07/18 | BITS: Design Artefacts (15%) |
+| 29/07/18 | BITS: Peer Feedback (5%) |
 | 10/08/18 | Sydney/Wagga |
 | 12/08/18 | BITS: Peer Feedback (5%) |
 | 19/08/18 | BITS: A3 part 1 (30%) |
 | 24/07/18 | joint gets $200 a fn for Medibank |
 | 26/08/18 | BITS: A3 part 2 (10%) |
+| 6/9-9/9  | GovHack and DesertMob in Alice Springs, stick around for hangs & jams... |
 | 17/09/18 | Census Date SP3 - unix |
 
 ---
