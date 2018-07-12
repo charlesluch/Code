@@ -2,8 +2,10 @@
 
 #### Expected time use
 
-CA - flow: 1 day per 3 weeks of coursework
-CA - hard: 1 day per 1 week  of coursework
+##### Coursera (CA)
+
+* flow: 1 day per 3 weeks of coursework
+* hard: 1 day per 1 week  of coursework
 
 #### Schedule
 
