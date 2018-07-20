@@ -9,16 +9,22 @@ On this page you organise and improve your efforts day-by-day.
 | Date     | Description                |
 | -------- |:-------------------------- |
 | 13/07/18 | 10:30am Psych |
-
 | 22/07/18 | BITS: Design Artefacts (15%) |
 | 29/07/18 | BITS: Peer Feedback (5%) |
-| 10/08/18 | Sydney/Wagga |
+| 04/08/18 | Anna's 30th |
+| 14/08/18 | Anna trial |
+| 18-20/08 | Ladies weekend with Sara |
 | 12/08/18 | BITS: Peer Feedback (5%) |
 | 19/08/18 | BITS: A3 part 1 (30%) |
 | 24/07/18 | joint gets $200 a fn for Medibank |
 | 26/08/18 | BITS: A3 part 2 (10%) |
 | 6/9-9/9  | GovHack and DesertMob in Alice Springs, stick around for hangs & jams... |
 | 17/09/18 | Census Date SP3 - unix |
+| 22/09-07/10 | QLD School Holidays |
+| 29/09-14/10 | NSW School Holidays |
+| 15/12-28/01 | QLD School Holidays |
+| 22/12-28/01 | NSW School Holidays |
+| 05/02/18 | Accenture start date |
 
 ---
 
@@ -28,13 +34,7 @@ On this page you organise and improve your efforts day-by-day.
 | -------- |:-------------------------- |
 | 30/6-15/07 | QLD School Holidays |
 | 07-22/07 | NSW School Holidays |
-| 14/08/18 | Anna trial |
-| 18-20/08 | Ladies weekend with Sarra |
-| 22/09-07/10 | QLD School Holidays |
-| 29/09-14/10 | NSW School Holidays |
-|  | stuff to go here |
-| 15/12-28/01 | QLD School Holidays |
-| 22/12-28/01 | NSW School Holidays |
+
 
 ---
 
