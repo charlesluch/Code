@@ -1,5 +1,13 @@
 # REPORT: Solar in Alice Springs
 
+Alice Springs and the Northern Territory is benefitting from a high degree of enthusiasm and support for the uptake of renewable energy. According to the [Economic Development Network](https://edf.nt.gov.au/developing-sectors/renewable-energy). Solar represents the most promising renewable source of energy for the Territory and so, on the back of the [Roadmap to Renewables report](https://roadmaptorenewables.nt.gov.au/report) the Northern Territory government has committed to 50% Solar power generation by 2030. In The Northern Territory we have seen a  we have seen a growth in 
+
+Thanks to the efforts of the Alice Springs Town Council and territory governments,  getting solar - on track, businesses like... with initiatives like ...
+
+eg
+Old power plant currently being phased out and if the current policy trajectory runs its course, will be replaced with solar
+
+
 ## The Solar Homes Alice webpage
 
 Alice Springs rental properties are [losing out](http://www.abc.net.au/news/science/2018-02-18/how-can-renters-get-solar-panels/9409098) in the push by government to develop photovoltaic (PV) power infrastructure in Alice Springs.
@@ -38,10 +46,6 @@ lists inverter shut down as caused by high voltages in the system as one of the 
 *For properties without solar power*
 
 
-Alice Springs getting solar - on track, businesses like... with initiatives like ...
-
-eg
-Old power plant currently being phased out and if the current policy trajectory runs its course, will be replaced with solar
 
 
 1. The certification stickers for real estate
